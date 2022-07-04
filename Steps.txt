@@ -1,0 +1,43 @@
+1. Collected the Data -> Political Data from all records = 3500 Record (Dataset_Original_Jan2021.csv)
+2. Took a portion of the Data 500 Record (filtered_results_political_2.csv)
+Dataset_Filteration_main.py
+3. Normalized the Numeric Features into values between 0 and 1 (Normalized_Political_2.csv)
+Normalize_Dataset_Political_2.py
+4. Normalize Friends and Followers Lists into single values from 0 to 1 values.
+by getting the top 500 frequent friends and check versus every user how many of them appears in his friends/followers lists
+Normalize_Dataset_Political_2.py
+5. Statuses Normalizations into 0 to 1 values
+(Stemming -> Tokkenization -> removing common words then Normalization)
+- now used top 100 tweets for each user
+Normalize_Dataset_Political_2.py
+output file: Normalized_Political_2.csv
+6. Generated synonyms for each term to generate the similarity matrix between
+each term + synonyms and the other terms + their synonyms
+(tried Hypernyms 1st - didnt' succeed - GenerateHypernyms.py - TokensWithHypernyms.csv)
+RandomizeTokens_w_Synonyms.py
+TokensWithSynonyms3.csv
+7. Created a similarity matrices based on many methods then choosed the TF-IDF matrix
+and wordnet (similarities) then extracted the most similar tokens.
+WordNetProcessing.py
+Top 100 - All similarity matrices + results.txt
+Top 300 - All similarity matrices + results.txt
+Top 500 - All similarity matrices + results.txt
+
+//We changed this step
+8. applied word2vector on the most similar tokens to get the topics out.
+Word2Vec_Topics.py
+word2vec-topics.csv
+
+8. Top 3,5,7 topics taken from the TF-IDF similarity matrix output for the top 100 frequent tokkens.
+
+9. Top 3,5,7 topics features columns created and normalized then.
+Normalize_Dataset_Political_2.py
+output file: Normalized_Political_2.csv
+We have used word2vec to
+
+10. applied 3 different clustering methodologies:-
+K-Means Clustering on CSV file
+K_Means_Clustering.py
+TSNE Clustering -> Clustering_2_TSNE.py
+DBScan -> Clustering_3_DBScan.py
+11. results (3 big + 1 small sybil on all clustering techniques)

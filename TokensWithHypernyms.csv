@@ -1,0 +1,501 @@
+Token,Hypernyms
+trump,"['playing_card.n.01', 'suit.n.06', 'brass.n.02', 'sound.v.02', 'beat.v.01', 'move.v.15', 'announce.v.01']"
+biden,
+president,"['corporate_executive.n.01', 'head_of_state.n.01', 'head_of_state.n.01', 'presiding_officer.n.01', 'academic_administrator.n.01', 'presidency.n.02']"
+people,"['group.n.01', 'group.n.01', 'family.n.04', 'group.n.01', 'populate.v.02', 'populate.v.01']"
+like,"['kind.n.01', 'kind.n.01', 'desire.v.01', 'see.v.05', 'desire.v.01']"
+BONG,"['sound.n.04', 'resound.v.01']"
+know,"['knowing.n.01', 'experience.v.01', 'accept.v.01', 'copulate.v.01', 'recognize.v.02', 'distinguish.v.01', 'remember.v.01']"
+time,"['case.n.01', 'time_period.n.01', 'time_period.n.01', 'moment.n.01', 'attribute.n.02', 'experience.n.03', 'reading.n.03', 'dimension.n.01', 'rhythmicity.n.01', 'term.n.02', 'quantify.v.02', 'schedule.v.01', 'determine.v.02', 'adjust.v.01', 'adjust.v.01']"
+need,"['condition.n.01', 'necessity.n.02', 'psychological_feature.n.01', 'poverty.n.01', 'be.v.01']"
+today,"['present.n.01', 'day.n.01']"
+right,"['abstraction.n.01', 'position.n.01', 'tract.n.01', 'faction.n.02', 'hand.n.01', 'turn.n.02', 'justice.n.01', 'interest.n.05', 'change.v.01', 'change.v.01', 'change_posture.v.01', 'change_by_reversal.v.01']"
+american,"['inhabitant.n.01', 'english.n.01', 'inhabitant.n.01']"
+would,
+year,"['time_period.n.01', 'time_period.n.01', 'time_period.n.01', 'gathering.n.01']"
+america,[]
+want,"['poverty.n.01', 'need.n.01', 'necessity.n.02', 'desire.n.01', 'be.v.01', 'search.v.01', 'demand.v.01', 'miss.v.06']"
+love,"['emotion.n.01', 'object.n.04', 'lover.n.01', 'sexual_desire.n.01', 'score.n.03', 'sexual_activity.n.01', 'like.v.02', 'love.v.01', 'copulate.v.01']"
+back,"['body_part.n.01', 'side.n.05', 'position.n.01', 'football_player.n.01', 'skeletal_structure.n.01', 'protective_covering.n.01', 'cloth_covering.n.01', 'support.n.10', 'position.n.09', 'approve.v.01', 'travel.v.01', 'support.v.01', 'finance.v.01', 'lie.v.01', 'bet.v.02', 'switch.v.04', 'confirm.v.01', 'strengthen.v.02']"
+make,"['kind.n.01', 'reordering.n.01', 'change.v.01', 'make.v.03', 'create_by_mental_act.v.01', 'cause.v.01', 'make.v.03', 'get.v.01', 'create.v.05', 'constitute.v.01', 'achieve.v.01', 'become.v.03', 'create_from_raw_material.v.01', 'perform.v.01', 'make.v.03', 'change.v.01', 'act.v.02', 'appoint.v.02', 'score.v.01', 'make.v.03', 'perpetrate.v.01', 'assemble.v.03', 'direct.v.04', 'tidy.v.01', 'head.v.01', 'excrete.v.01', 'change.v.02', 'be.v.01', 'total.v.01', 'amount.v.01', 'constitute.v.01', 'look.v.02', 'pass.v.01', 'reach.v.01', 'create_from_raw_material.v.01', 'create_from_raw_material.v.01', 'persuade.v.02', 'guarantee.v.02', 'act.v.03', 'see.v.05', 'estimate.v.01', 'change.v.01', 'develop.v.13', 'develop.v.14', 'act.v.02', 'excrete.v.01']"
+think,"['deliberation.n.02', 'evaluate.v.02', 'expect.v.01', 'imagine.v.01', 'concentrate.v.02', 'think.v.03', 'think.v.03', 'think.v.01', 'think.v.03', 'change.v.01']"
+republican,"['politician.n.02', 'advocate.n.01']"
+good,"['advantage.n.01', 'morality.n.01', 'quality.n.01', 'artifact.n.01']"
+state,"['administrative_district.n.01', 'attribute.n.02', 'government.n.01', 'political_unit.n.01', 'chemical_phenomenon.n.01', 'emotional_state.n.01', 'administrative_district.n.01', 'executive_department.n.01', 'express.v.02', 'propose.v.01', 'denote.v.02']"
+never,[]
+onedirection,
+election,"['vote.n.02', 'choice.n.02', 'status.n.01', 'predestination.n.02']"
+first,"['rank.n.02', 'ordinal_number.n.01', 'point.n.06', 'position.n.09', 'honours.n.01', 'gear.n.03']"
+vote,"['choice.n.02', 'group_action.n.01', 'franchise.n.03', 'body.n.02', 'numerical_quantity.n.01', 'choose.v.01', 'express.v.04', 'express.v.04', 'vote.v.03']"
+Valerio_Scanu,
+thing,"['situation.n.01', 'action.n.01', 'abstraction.n.01', 'artifact.n.01', 'happening.n.01', 'concern.n.01', 'statement.n.01', 'entity.n.01', 'attribute.n.02', 'aim.n.02', 'feeling.n.01', 'physical_entity.n.01']"
+take,"['income.n.01', 'filming.n.01', 'act.v.01', 'use.v.03', 'change.v.02', 'interpret.v.01', 'transport.v.02', 'use.v.01', 'decide.v.01', 'get.v.01', 'work.v.02', 'think_about.v.01', 'experience.v.03', 'record.v.01', 'undergo.v.01', 'move.v.03', 'accept.v.02', 'receive.v.02', 'necessitate.v.01', 'head.v.01', 'position.v.01', 'become.v.01', 'have.v.02', 'get.v.01', 'buy.v.01', 'buy.v.01', 'sleep_together.v.01', 'affirm.v.02', 'be.v.01', 'be.v.01', 'traverse.v.01', 'win.v.01', 'sicken.v.02']"
+last,"['end.n.02', 'rank.n.02', 'activity.n.01', 'end.n.02', 'weight_unit.n.02', 'volume_unit.n.01', 'ending.n.04', 'holding_device.n.01', 'measure.v.03']"
+going,"['act.n.02', 'death.n.01', 'accomplishment.n.01', 'act.v.01', 'exit.v.01', 'change_state.v.01', 'be.v.01', 'be.v.03', 'happen.v.01', 'disappear.v.01', 'be.v.01', 'cause_to_be_perceived.v.01', 'end.v.01', 'change.v.02', 'change_state.v.01', 'be.v.03', 'compare.v.02', 'harmonize.v.01', 'be.v.03', 'fit.v.07', 'search.v.04', 'choose.v.01', 'change.v.02']"
+party,"['organization.n.01', 'social_gathering.n.01', 'set.n.05', 'affair.n.03', 'person.n.01', 'celebrate.v.02']"
+democrat,"['politician.n.02', 'advocate.n.01']"
+left,"['position.n.01', 'faction.n.02', 'hand.n.01', 'tract.n.01', 'turn.n.02', 'make.v.02', 'refrain.v.01', 'move.v.03', 'yield.v.01', 'produce.v.03', 'change.v.02', 'pass.v.05', 'give.v.08', 'have.v.09', 'tell.v.02', 'lose.v.05']"
+news,"['information.n.01', 'information.n.01', 'broadcast.n.02', 'information.n.01', 'interest.n.03']"
+breaking,"['change_of_integrity.n.01', 'end.v.02', 'change_integrity.v.01', 'damage.v.01', 'destroy.v.02', 'separate.v.07', 'disrespect.v.01', 'escape.v.01', 'disperse.v.04', 'express_emotion.v.01', 'end.v.02', 'trespass.v.01', 'domesticate.v.02', 'surpass.v.02', 'tell.v.02', 'become.v.01', 'change.v.02', 'separate.v.08', 'flee.v.01', 'collapse.v.01', 'deaden.v.06', 'change.v.02', 'end.v.01', 'change.v.03', 'discontinue.v.01', 'come_forth.v.02', 'happen.v.01', 'ruin.v.02', 'invalidate.v.01', 'delegate.v.02', 'impoverish.v.01', 'switch.v.03', 'appear.v.02', 'change.v.02', 'dance.v.02', 'change.v.06', 'change.v.01', 'shoot.v.08', 'separate.v.02', 'decay.v.02', 'detach.v.01', 'penetrate.v.01', 'interrupt.v.01', 'interrupt.v.01', 'diphthongize.v.01', 'destroy.v.02', 'solve.v.01', 'switch.v.03', 'happen.v.01', 'change.v.02', 'change_state.v.01', 'decrease.v.01', 'injure.v.01', 'decrease.v.01', 'weaken.v.01']"
+thank,['convey.v.01']
+donald,
+really,[]
+follower,"['person.n.01', 'traveler.n.01']"
+million,"['large_integer.n.01', 'large_indefinite_quantity.n.01']"
+many,[]
+help,"['activity.n.01', 'worker.n.01', 'resource.n.02', 'helpfulness.n.01', 'support.v.01', 'better.v.02', 'serve.v.03', 'refrain.v.01', 'provide.v.02', 'promote.v.01', 'exploit.v.01', 'better.v.02']"
+house,"['building.n.01', 'dwelling.n.01', 'business.n.01', 'community.n.01', 'audience.n.01', 'legislature.n.01', 'family.n.04', 'play.n.08', 'region.n.01', 'management.n.02', 'unit.n.03', 'building.n.01', 'building.n.01', 'accommodate.v.04', 'shelter.v.01']"
+look,"['countenance.n.01', 'sensing.n.02', 'appearance.n.01', 'atmosphere.n.01', 'be.v.01', 'be.v.01', 'examine.v.02', 'lie.v.01', 'care.v.02', 'convey.v.01', 'match.v.01', 'trust.v.01']"
+even,"['day.n.04', 'change_surface.v.01', 'change.v.01', 'regularize.v.02']"
+every,[]
+twitter,"['sound.n.04', 'peep.v.03']"
+jackposobiec,
+great,['achiever.n.01']
+please,"['satisfy.v.02', 'wish.v.02', 'satisfy.v.02']"
+work,"['activity.n.01', 'product.n.02', 'occupation.n.01', 'learning.n.01', 'energy.n.01', 'geographic_point.n.01', 'end_product.n.01', 'succeed.v.01', 'transform.v.02', 'work.v.12', 'pass.v.01', 'work.v.01', 'go.v.02', 'move.v.02', 'make.v.03', 'use.v.01', 'fix.v.12', 'be.v.01', 'affect.v.01', 'operate.v.01', 'manage.v.02', 'stimulate.v.06', 'capture.v.02', 'create_from_raw_material.v.01', 'move.v.02', 'manipulate.v.02', 'use.v.01', 'understand.v.01', 'convert.v.02', 'change_state.v.01', 'become.v.01']"
+lost,"['people.n.01', 'suffer.v.03', 'put.v.01', 'regress.v.03', 'worsen.v.01']"
+well,"['excavation.n.03', 'vessel.n.03', 'source.n.02', 'shaft.n.08', 'compartment.n.02', 'surface.v.01']"
+watch,"['timepiece.n.01', 'shift.n.03', 'surveillance.n.01', 'time_period.n.01', 'watchman.n.01', 'rite.n.01', 'check.v.01', 'watch.v.01']"
+video,"['visual_communication.n.01', 'recording.n.03', 'visual_communication.n.01', 'broadcasting.n.02']"
+said,"['express.v.02', 'assert.v.01', 'speculate.v.02', 'have.v.02', 'request.v.02', 'convey.v.01', 'express.v.02', 'recite.v.02', 'read.v.08']"
+joebiden,
+national,['person.n.01']
+covid,
+medium,"['instrumentality.n.03', 'environment.n.02', 'communication.n.01', 'food.n.01', 'liquid.n.01', 'substance.n.01', 'substance.n.01', 'state.n.02', 'psychic.n.01', 'transmission.n.02', 'occupation.n.01']"
+catturd2,
+still,"['photograph.n.01', 'silence.n.02', 'apparatus.n.01', 'plant.n.01', 'comfort.v.01', 'suppress.v.01', 'comfort.v.01', 'change.v.01']"
+troop,"['army_unit.n.01', 'army_unit.n.01', 'unit.n.03', 'crowd.n.01', 'march.v.01', 'march.v.03']"
+must,"['necessity.n.02', 'grape_juice.n.01', 'staleness.n.02']"
+keep,"['resource.n.01', 'stronghold.n.01', 'cell.n.07', 'act.v.01', 'have.v.01', 'have.v.01', 'record.v.01', 'lodge.v.04', 'prolong.v.02', 'have.v.01', 'stay.v.01', 'inhibit.v.04', 'protect.v.01', 'grow.v.07', 'reserve.v.04', 'store.v.02', 'have.v.01', 'have.v.01', 'confine.v.05', 'cook.v.02']"
+remember,"['bequeath.v.01', 'mention.v.01', 'mention.v.01', 'associate.v.01']"
+donaldjtrumpjr,
+hour,"['time_unit.n.01', 'clock_time.n.01', 'time_period.n.01', 'distance.n.01']"
+order,"['command.n.01', 'magnitude.n.01', 'state.n.02', 'arrangement.n.02', 'condition.n.01', 'act.n.01', 'commercial_document.n.01', 'association.n.01', 'rule.n.03', 'status.n.01', 'sect.n.01', 'taxonomic_group.n.01', 'request.n.02', 'artistic_style.n.01', 'organization.n.06', 'request.v.02', 'request.v.01', 'inflict.v.01', 'decide.v.01', 'arrange.v.01', 'arrange.v.01', 'invest.v.04', 'organize.v.02', 'evaluate.v.02']"
+call,"['telephone.n.02', 'inclination.n.01', 'utterance.n.01', 'demand.n.01', 'animal_communication.n.01', 'visit.n.01', 'demand.n.01', 'demand.n.01', 'request.n.02', 'instruction.n.04', 'visit.n.04', 'decision.n.01', 'option.n.01', 'label.v.01', 'label.v.01', 'telecommunicate.v.01', 'utter.v.02', 'order.v.01', 'meet.v.02', 'request.v.01', 'read.v.03', 'telecommunicate.v.01', 'utter.v.02', 'postpone.v.01', 'address.v.01', 'stop.v.04', 'demand.v.03', 'play.v.01', 'indicate.v.03', 'guess.v.02', 'ask.v.04', 'challenge.v.01', 'declare.v.04', 'entice.v.01', 'order.v.02', 'request.v.02', 'utter.v.02', 'challenge.v.01', 'see.v.05', 'awaken.v.01']"
+patriot,['national.n.01']
+woman,"['adult.n.01', 'female.n.02', 'female.n.02', 'cleaner.n.03', 'class.n.03']"
+world,"['natural_object.n.01', 'class.n.03', 'experience.n.02', 'people.n.01', 'part.n.03', 'concern.n.01', 'group.n.01', 'homo.n.02']"
+week,"['time_period.n.01', 'work_time.n.01', 'time_period.n.01']"
+voted,"['choose.v.01', 'express.v.04', 'express.v.04', 'vote.v.03']"
+realdonaldtrump,
+potus,
+come,"['liquid_body_substance.n.01', 'travel.v.01', 'happen.v.01', 'change.v.02', 'originate.v.01', 'exist.v.01', 'be.v.01', 'run.v.03', 'be.v.03', 'travel.v.01', 'be.v.01', 'result.v.01', 'be.v.01', 'become.v.02', 'arrive.v.01', 'become.v.03', 'proceed.v.04', 'experience.v.01', 'rank.v.01']"
+life,"['being.n.01', 'experience.n.02', 'being.n.01', 'being.n.01', 'time_period.n.01', 'time_period.n.01', 'time_period.n.01', 'person.n.01', 'animation.n.03', 'living_thing.n.01', 'organic_phenomenon.n.01', 'history.n.02', 'motivation.n.01', 'prison_term.n.01']"
+plan,"['idea.n.01', 'arrangement.n.03', 'drawing.n.02', 'intend.v.01', 'think.v.03', 'create_by_mental_act.v.01', 'create_by_mental_act.v.01']"
+capitol,['government_building.n.01']
+give,"['elasticity.n.01', 'supply.v.01', 'transfer.v.05', 'state.v.01', 'communicate.v.02', 'direct.v.04', 'communicate.v.02', 'make.v.03', 'think.v.03', 'produce.v.02', 'tell.v.02', 'make.v.03', 'pass.v.05', 'utter.v.02', 'release.v.08', 'transfer.v.05', 'use.v.01', 'administer.v.04', 'distribute.v.01', 'communicate.v.02', 'move.v.03', 'provide.v.02', 'give.v.03', 'change.v.02', 'estimate.v.01', 'execute.v.04', 'compensate.v.02', 'show.v.04', 'perform.v.03', 'stretch.v.04', 'toast.v.02', 'accord.v.02', 'express.v.01', 'pledge.v.04', 'submit.v.01', 'lead.v.05', 'permit.v.01', 'inflict.v.01', 'happen.v.01', 'accept.v.03', 'offer.v.02']"
+stats,
+tweet,"['chirp.n.01', 'sound.v.02', 'grip.v.01']"
+hope,"['anticipation.n.01', 'feeling.n.01', 'expectation.n.01', 'person.n.01', 'theological_virtue.n.01', 'wish.v.01', 'desire.v.01', 'plan.v.01']"
+stop,"['ending.n.04', 'act.n.02', 'stay.n.01', 'inaction.n.01', 'topographic_point.n.01', 'obstruent.n.01', 'punctuation.n.02', 'knob.n.02', 'mechanical_device.n.01', 'restraint.n.06', 'obstruction.n.01', 'prevent.v.01', 'interrupt.v.01', 'end.v.02', 'defend.v.02', 'catch.v.04', 'obstruct.v.02', 'interrupt.v.04']"
+country,"['political_unit.n.01', 'administrative_district.n.01', 'people.n.01', 'geographical_area.n.01', 'region.n.03']"
+china,"['porcelain.n.01', 'crockery.n.01']"
+white,"['person.n.01', 'achromatic_color.n.01', 'ingredient.n.03', 'man.n.10', 'trouser.n.01', 'discolor.v.03']"
+free,"['people.n.01', 'remove.v.01', 'issue.v.02', 'forgive.v.01', 'pass.v.05', 'generate.v.01', 'issue.v.02']"
+support,"['activity.n.01', 'aid.n.02', 'influence.n.03', 'operation.n.05', 'validation.n.01', 'resource.n.01', 'supporting_structure.n.01', 'activity.n.01', 'part.n.11', 'device.n.01', 'resource.n.01', 'give.v.03', 'approve.v.01', 'agree.v.01', 'match.v.01', 'argue.v.01', 'act.v.03', 'foster.v.03', 'permit.v.01']"
+believe,"['accept.v.01', 'evaluate.v.02', 'expect.v.01', 'believe.v.01', 'credit.v.04']"
+could,
+follow,"['travel.v.01', 'result.v.01', 'travel.v.01', 'obey.v.01', 'result.v.01', 'imitate.v.01', 'be.v.03', 'choose.v.01', 'imitate.v.01', 'analyze.v.01', 'check.v.01', 'play.v.03', 'originate.v.01', 'act.v.02', 'practice.v.04', 'travel.v.01', 'understand.v.01', 'persevere.v.01']"
+report,"['document.n.01', 'informing.n.02', 'news.n.02', 'noise.n.01', 'information.n.01', 'essay.n.01', 'estimate.n.05', 'inform.v.01', 'announce.v.01', 'announce.v.01', 'inform.v.01', 'inform.v.01', 'complain.v.01']"
+start,"['beginning.n.01', 'point.n.06', 'turn.n.03', 'reflex.n.01', 'change_of_state.n.01', 'line.n.20', 'signal.n.01', 'advantage.n.01', 'leave.v.01', 'make.v.03', 'begin.v.03', 'move.v.03', 'play.v.01', 'be.v.01', 'act.v.01', 'change_shape.v.01']"
+impeachment,['legal_document.n.01']
+office,"['place_of_business.n.01', 'administrative_unit.n.01', 'duty.n.02', 'state.n.02', 'staff.n.01', 'rite.n.01', 'occupation.n.01']"
+directioners,
+nothing,['relative_quantity.n.01']
+thought,"['content.n.05', 'higher_cognitive_process.n.01', 'belief.n.01', 'belief.n.01', 'evaluate.v.02', 'expect.v.01', 'imagine.v.01', 'concentrate.v.02', 'think.v.03', 'think.v.03', 'think.v.01', 'think.v.03', 'change.v.01']"
+ever,[]
+word,"['language_unit.n.01', 'statement.n.01', 'information.n.01', 'order.n.01', 'speech.n.02', 'promise.n.01', 'computer_memory_unit.n.01', 'positive_identification.n.01', 'secret.n.02', 'sacred_text.n.01', 'express.v.01']"
+family,"['unit.n.03', 'kin.n.02', 'collection.n.01', 'lineage.n.01', 'relative.n.01', 'taxonomic_group.n.01', 'organized_crime.n.01', 'association.n.01']"
+already,[]
+message,"['communication.n.02', 'communication.n.02', 'communicate.v.01', 'communicate.v.01', 'communicate.v.05']"
+better,"['good.n.03', 'gambler.n.01', 'superior.n.01', 'good.n.03', 'surpass.v.02', 'change.v.01', 'change_state.v.01']"
+political,[]
+everyone,
+business,"['enterprise.n.02', 'commerce.n.01', 'activity.n.01', 'concern.n.04', 'aim.n.02', 'business_activity.n.01', 'sector.n.02', 'people.n.01', 'acting.n.01']"
+mask,"['covering.n.02', 'disguise.n.02', 'concealment.n.03', 'party.n.02', 'protective_covering.n.01', 'disguise.v.01', 'cover.v.01', 'hide.v.01', 'cover.v.01', 'cover.v.01']"
+show,"['entertainment.n.01', 'demonstration.n.05', 'social_event.n.01', 'pretense.n.01', 'show.v.04', 'confirm.v.01', 'inform.v.01', 'represent.v.09', 'convey.v.01', 'inform.v.01', 'appear.v.02', 'indicate.v.03', 'read.v.08', 'lead.v.01', 'race.v.02']"
+anyone,
+teenchoice,
+choicefandom,
+police,"['force.n.04', 'law_enforcement_agency.n.01', 'guard.v.01']"
+senate,"['legislature.n.01', 'senate.n.01']"
+told,"['express.v.02', 'inform.v.01', 'inform.v.01', 'request.v.02', 'guess.v.04', 'affirm.v.02', 'inform.v.03', 'identify.v.01']"
+much,['large_indefinite_quantity.n.01']
+senator,['legislator.n.01']
+voting,"['choice.n.02', 'choose.v.01', 'express.v.04', 'express.v.04', 'vote.v.03']"
+friend,"['person.n.01', 'associate.n.01', 'person.n.01', 'advocate.n.01', 'christian.n.01']"
+name,"['language_unit.n.01', 'repute.n.01', 'family.n.04', 'important_person.n.01', 'sanction.n.04', 'defamation.n.01', 'label.v.01', 'denote.v.02', 'appoint.v.02', 'establish.v.02', 'specify.v.02', 'think_of.v.04', 'enumerate.v.01', 'analyze.v.01']"
+death,"['change.n.01', 'organic_phenomenon.n.01', 'state.n.02', 'end.n.02', 'end.n.02', 'state.n.02', 'killing.n.02']"
+done,"['carry_through.v.01', 'proceed.v.04', 'make.v.03', 'satisfy.v.01', 'create.v.05', 'spend.v.01', 'groom.v.03', 'travel.v.01']"
+feel,"['awareness.n.01', 'atmosphere.n.01', 'property.n.02', 'foreplay.n.01', 'reason.v.01', 'perceive.v.01', 'be.v.01', 'think.v.01', 'experience.v.01', 'look.v.02', 'search.v.01', 'touch.v.01', 'find.v.03', 'look.v.02', 'touch.v.01']"
+laurenboebert,
+guard,"['defender.n.01', 'lineman.n.01', 'device.n.01', 'position.n.04', 'basketball_player.n.01', 'military_unit.n.01', 'measure.n.01', 'assignment.n.01', 'lineman.n.04', 'position.n.09', 'watch.v.02', 'protect.v.01', 'protect.v.01', 'act.v.01']"
+thanks,"['acknowledgment.n.03', 'aid.n.02', 'convey.v.01']"
+also,[]
+fuck,"['sexual_intercourse.n.01', 'copulate.v.01']"
+someone,"['causal_agent.n.01', 'organism.n.01']"
+best,"['attempt.n.01', 'person.n.01', 'beat.v.01']"
+find,"['insight.n.03', 'act.n.02', 'spy.v.03', 'get.v.01', 'reason.v.01', 'experience.v.01', 'get.v.01', 'gestate.v.01', 'learn.v.02', 'get.v.01', 'pronounce.v.02', 'change.v.02', 'perceive.v.01', 'get.v.01', 'reach.v.01', 'mature.v.01']"
+mean,"['average.n.01', 'convey.v.01', 'necessitate.v.02', 'associate.v.01', 'intend.v.02']"
+month,"['time_period.n.01', 'time_unit.n.01']"
+hard,[]
+real,"['complex_number.n.01', 'brazilian_monetary_unit.n.01', 'coin.n.01']"
+full,"['phase_of_the_moon.n.01', 'beat.v.03', 'change.v.01', 'increase.v.01']"
+pelosi,
+long,['desire.v.01']
+press,"['urgency.n.01', 'print_media.n.01', 'machine.n.01', 'crowd.n.01', 'furniture.n.01', 'clamp.n.01', 'machine.n.01', 'weightlift.n.01', 'push.n.01', 'touch.v.01', 'rede.v.02', 'count.v.02', 'flatten.v.02', 'tighten.v.02', 'mass.v.01', 'make.v.03', 'be.v.01', 'advertise.v.02', 'cast.v.07', 'push.v.01', 'press.v.04', 'exercise.v.04', 'plead.v.01']"
+executive,"['administrator.n.01', 'administration.n.02', 'head.n.04']"
+sure,[]
+youtube,
+night,"['time_period.n.01', 'time_period.n.01', 'time_period.n.01', 'time_unit.n.01', 'dark.n.01', 'twilight.n.01', 'time_period.n.01']"
+saying,"['speech.n.02', 'express.v.02', 'assert.v.01', 'speculate.v.02', 'have.v.02', 'request.v.02', 'convey.v.01', 'express.v.02', 'recite.v.02', 'read.v.08']"
+cybersecurity,
+leader,"['person.n.01', 'feature.n.06']"
+voter,['citizen.n.01']
+person,"['causal_agent.n.01', 'organism.n.01', 'human_body.n.01', 'grammatical_category.n.01']"
+child,"['juvenile.n.01', 'offspring.n.01', 'person.n.01', 'descendant.n.01']"
+unity,"['state.n.02', 'digit.n.01', 'identity.n.04']"
+something,
+next,[]
+stand,"['support.n.10', 'position.n.01', 'vegetation.n.01', 'table.n.02', 'support.n.10', 'stop.n.01', 'position.n.12', 'booth.n.04', 'stop.n.03', 'tiered_seat.n.01', 'platform.n.01', 'defense.n.01', 'rest.v.01', 'be.v.01', 'be.v.01', 'resist.v.02', 'permit.v.01', 'evaluate.v.02', 'stay.v.01', 'continue.v.10', 'measure.v.03', 'put.v.01', 'fight.v.02', 'serve.v.14']"
+away,[]
+congress,"['legislature.n.01', 'meeting.n.01', 'legislature.n.01', 'sexual_activity.n.01']"
+coming,"['motion.n.06', 'arrival.n.01', 'timing.n.01', 'consummation.n.02', 'travel.v.01', 'happen.v.01', 'change.v.02', 'originate.v.01', 'exist.v.01', 'be.v.01', 'run.v.03', 'be.v.03', 'travel.v.01', 'be.v.01', 'result.v.01', 'be.v.01', 'become.v.02', 'arrive.v.01', 'become.v.03', 'proceed.v.04', 'experience.v.01', 'rank.v.01']"
+antifa,
+administration,"['management.n.01', 'body.n.02', 'medication.n.02', 'tenure.n.01', 'social_control.n.01', 'justice.n.02']"
+member,"['associate.n.01', 'part.n.01', 'external_body_part.n.01', 'unit.n.03', 'erectile_organ.n.01']"
+inauguration,"['beginning.n.05', 'initiation.n.01']"
+russia,[]
+music,"['auditory_communication.n.01', 'sound.n.02', 'activity.n.01', 'sound.n.02', 'punishment.n.01']"
+money,"['medium_of_exchange.n.01', 'wealth.n.04', 'currency.n.01']"
+made,"['change.v.01', 'make.v.03', 'create_by_mental_act.v.01', 'cause.v.01', 'make.v.03', 'get.v.01', 'create.v.05', 'constitute.v.01', 'achieve.v.01', 'become.v.03', 'create_from_raw_material.v.01', 'perform.v.01', 'make.v.03', 'change.v.01', 'act.v.02', 'appoint.v.02', 'score.v.01', 'make.v.03', 'perpetrate.v.01', 'assemble.v.03', 'direct.v.04', 'tidy.v.01', 'head.v.01', 'excrete.v.01', 'change.v.02', 'be.v.01', 'total.v.01', 'amount.v.01', 'constitute.v.01', 'look.v.02', 'pass.v.01', 'reach.v.01', 'create_from_raw_material.v.01', 'create_from_raw_material.v.01', 'persuade.v.02', 'guarantee.v.02', 'act.v.03', 'see.v.05', 'estimate.v.01', 'change.v.01', 'develop.v.13', 'develop.v.14', 'act.v.02', 'excrete.v.01']"
+power,"['quality.n.01', 'physical_phenomenon.n.01', 'cognition.n.01', 'state.n.02', 'causal_agent.n.01', 'mathematical_notation.n.01', 'strength.n.01', 'state.n.04', 'businessman.n.01', 'provide.v.02']"
+tell,"['express.v.02', 'inform.v.01', 'inform.v.01', 'request.v.02', 'guess.v.04', 'affirm.v.02', 'inform.v.03', 'identify.v.01']"
+point,"['component.n.01', 'location.n.01', 'meaning.n.01', 'fact.n.01', 'state.n.02', 'measure.n.02', 'aim.n.02', 'convex_shape.n.01', 'disk.n.01', 'unit_of_measurement.n.01', 'promontory.n.01', 'part.n.01', 'relevance.n.01', 'characteristic.n.02', 'end.n.01', 'direction.n.02', 'linear_unit.n.01', 'loan.n.01', 'punctuation.n.02', 'mark.n.10', 'mathematical_notation.n.01', 'taper.n.02', 'characteristic.n.02', 'gun_muzzle.n.01', 'wall_socket.n.01', 'contact.n.07', 'inform.v.01', 'lie.v.01', 'aim.v.01', 'control.v.01', 'tell.v.02', 'sail.v.03', 'tag.v.01', 'tag.v.01', 'tag.v.01', 'be.v.01', 'aim.v.01', 'indicate.v.02', 'change_shape.v.01', 'repair.v.01']"
+bill,"['legal_document.n.01', 'statement.n.07', 'paper_money.n.01', 'program.n.08', 'ad.n.01', 'sign.n.02', 'list.n.01', 'saw.n.02', 'brim.n.02', 'mouth.n.02', 'account.v.02', 'advertise.v.02', 'post.v.02']"
+amazon,"['woman.n.01', 'mythical_being.n.01', 'parrot.n.01']"
+making,"['production.n.01', 'fitness.n.01', 'component.n.03', 'change.v.01', 'make.v.03', 'create_by_mental_act.v.01', 'cause.v.01', 'make.v.03', 'get.v.01', 'create.v.05', 'constitute.v.01', 'achieve.v.01', 'become.v.03', 'create_from_raw_material.v.01', 'perform.v.01', 'make.v.03', 'change.v.01', 'act.v.02', 'appoint.v.02', 'score.v.01', 'make.v.03', 'perpetrate.v.01', 'assemble.v.03', 'direct.v.04', 'tidy.v.01', 'head.v.01', 'excrete.v.01', 'change.v.02', 'be.v.01', 'total.v.01', 'amount.v.01', 'constitute.v.01', 'look.v.02', 'pass.v.01', 'reach.v.01', 'create_from_raw_material.v.01', 'create_from_raw_material.v.01', 'persuade.v.02', 'guarantee.v.02', 'act.v.03', 'see.v.05', 'estimate.v.01', 'change.v.01', 'develop.v.13', 'develop.v.14', 'act.v.02', 'excrete.v.01']"
+detail,"['fact.n.01', 'part.n.01', 'discussion.n.01', 'gang.n.03', 'military_unit.n.01', 'elaborate.v.01', 'assign.v.04']"
+unfollowers,
+iheartawards,
+read,"['publication.n.01', 'interpret.v.01', 'have.v.02', 'talk.v.02', 'interpret.v.01', 'predict.v.01', 'interpret.v.01', 'indicate.v.03', 'audition.v.01', 'understand.v.01', 'understand.v.01']"
+getting,"['act.n.02', 'change_state.v.01', 'make.v.02', 'change.v.02', 'transmit.v.04', 'undergo.v.01', 'get_even.v.02', 'score.v.01', 'seize.v.01', 'change.v.02', 'sicken.v.02', 'communicate.v.02', 'change.v.01', 'mean.v.01', 'understand.v.01', 'attract.v.01', 'hit.v.03', 'get.v.01', 'buy.v.01', 'hear.v.01', 'hurt.v.06', 'leave.v.01', 'catch.v.09', 'annoy.v.01', 'touch.v.03', 'reproduce.v.03', 'effect.v.01', 'destroy.v.02', 'confuse.v.02', 'experience.v.03', 'make.v.03']"
+question,"['questioning.n.01', 'subject.n.01', 'sentence.n.01', 'uncertainty.n.01', 'proposal.n.01', 'marriage_proposal.n.01', 'challenge.v.02', 'ask.v.05', 'ask.v.05', 'converse.v.01', 'chew_over.v.01']"
+federal,"['yankee.n.01', 'agent.n.05']"
+nation,"['political_unit.n.01', 'people.n.01', 'confederation.n.02']"
+history,"['past.n.01', 'record.n.01', 'humanistic_discipline.n.01', 'continuum.n.01', 'cognition.n.01']"
+washington,[]
+2020,
+chuckcallesto,
+oann,
+bestcoversong,
+hotel,['building.n.01']
+truth,"['fact.n.01', 'actuality.n.01', 'statement.n.01', 'quality.n.01']"
+another,[]
+always,[]
+post,"['position.n.01', 'military_installation.n.01', 'occupation.n.01', 'upright.n.01', 'collection.n.01', 'visual_signal.n.01', 'communication.n.01', 'delivery.n.01', 'affix.v.01', 'announce.v.01', 'delegate.v.02', 'move.v.02', 'record.v.01', 'list.v.02', 'transfer.v.02', 'ride_horseback.v.01', 'mark.v.05', 'install.v.01', 'transfer.v.02', 'call.v.02']"
+vaccine,['immunogen.n.01']
+black,"['achromatic_color.n.01', 'dark.n.01', 'person.n.01', 'person_of_color.n.01', 'man.n.10', 'clothing.n.01', 'discolor.v.03']"
+instead,[]
+sent,"['estonian_monetary_unit.n.01', 'move.v.02', 'transmit.v.04', 'transfer.v.02', 'move.v.02', 'move.v.02', 'transfer.v.02', 'transfer.v.02', 'publicize.v.01']"
+retweet,
+united,"['join.v.01', 'integrate.v.03', 'have.v.02', 'change.v.01', 'change.v.01']"
+part,"['relation.n.01', 'object.n.01', 'thing.n.12', 'concern.n.01', 'location.n.01', 'duty.n.02', 'portrayal.n.02', 'assets.n.01', 'concept.n.01', 'line.n.11', 'tune.n.01', 'attempt.n.01', 'move.v.03', 'leave.v.01', 'change.v.02', 'move.v.02']"
+pandemic,['epidemic.n.01']
+mammaraffy,
+maybe,[]
+since,
+protect,"['defend.v.02', 'assist.v.02']"
+matter,"['concern.n.01', 'content.n.05', 'physical_entity.n.01', 'trouble.n.01', 'consequence.n.03', 'writing.n.02', 'be.v.01']"
+attack,"['operation.n.05', 'turn.n.03', 'criticism.n.01', 'conceptualization.n.01', 'crime.n.01', 'beginning.n.05', 'affliction.n.03', 'degeneration.n.01', 'criticism.n.01', 'contend.v.06', 'knock.v.06', 'act.v.01', 'get_down.v.07', 'affect.v.02']"
+2019,
+mitch,
+home,"['residence.n.01', 'housing.n.01', 'location.n.01', 'base.n.03', 'location.n.01', 'beginning.n.04', 'environment.n.01', 'unit.n.03', 'institution.n.02', 'house.v.02', 'return.v.01']"
+mail,"['message.n.01', 'communication.n.01', 'conveyance.n.03', 'collection.n.01', 'body_armor.n.01', 'send.v.02', 'transfer.v.02']"
+michaeljohns,
+gave,"['supply.v.01', 'transfer.v.05', 'state.v.01', 'communicate.v.02', 'direct.v.04', 'communicate.v.02', 'make.v.03', 'think.v.03', 'produce.v.02', 'tell.v.02', 'make.v.03', 'pass.v.05', 'utter.v.02', 'release.v.08', 'transfer.v.05', 'use.v.01', 'administer.v.04', 'distribute.v.01', 'communicate.v.02', 'move.v.03', 'provide.v.02', 'give.v.03', 'change.v.02', 'estimate.v.01', 'execute.v.04', 'compensate.v.02', 'show.v.04', 'perform.v.03', 'stretch.v.04', 'toast.v.02', 'accord.v.02', 'express.v.01', 'pledge.v.04', 'submit.v.01', 'lead.v.05', 'permit.v.01', 'inflict.v.01', 'happen.v.01', 'accept.v.03', 'offer.v.02']"
+issue,"['content.n.05', 'periodical.n.01', 'content.n.05', 'provision.n.02', 'store.n.02', 'income.n.01', 'phenomenon.n.01', 'relative.n.01', 'beginning.n.01', 'opening.n.10', 'printing.n.02', 'publicize.v.01', 'distribute.v.03', 'communicate.v.02', 'write.v.02']"
+little,['small_indefinite_quantity.n.01']
+around,[]
+working,"['excavation.n.03', 'succeed.v.01', 'transform.v.02', 'work.v.12', 'pass.v.01', 'work.v.01', 'go.v.02', 'move.v.02', 'make.v.03', 'use.v.01', 'fix.v.12', 'be.v.01', 'affect.v.01', 'operate.v.01', 'manage.v.02', 'stimulate.v.06', 'capture.v.02', 'create_from_raw_material.v.01', 'move.v.02', 'manipulate.v.02', 'use.v.01', 'understand.v.01', 'convert.v.02', 'change_state.v.01', 'become.v.01']"
+traitor,"['criminal.n.01', 'deceiver.n.01']"
+illegal,[]
+release,"['merchandise.n.01', 'accomplishment.n.01', 'natural_process.n.01', 'announcement.n.02', 'termination.n.05', 'death.n.01', 'legal_document.n.01', 'device.n.01', 'activity.n.01', 'flow.n.03', 'relinquishment.n.02', 'termination.n.05', 'transmit.v.04', 'publicize.v.01', 'exude.v.01', 'issue.v.02', 'pass.v.05', 'generate.v.01', 'issue.v.02']"
+government,"['polity.n.02', 'social_control.n.01', 'system.n.04', 'social_science.n.01']"
+worst,"['result.n.03', 'evil.n.03', 'attempt.n.01', 'beat.v.01']"
+talk,"['conversation.n.01', 'discussion.n.01', 'lecture.n.03', 'address.n.03', 'gossip.n.02', 'communicate.v.02', 'communicate.v.02', 'communicate.v.02', 'tell.v.02', 'unwrap.v.02', 'teach.v.01']"
+happy,[]
+true,"['alignment.n.02', 'align.v.01']"
+official,"['skilled_worker.n.01', 'adjudicator.n.01']"
+reality,"['experience.n.02', 'actuality.n.01', 'actuality.n.01', 'materiality.n.02']"
+occurred,"['become.v.03', 'appear.v.05']"
+stay,"['act.n.02', 'inaction.n.01', 'decree.n.01', 'strip.n.02', 'brace.n.09', 'be.v.01', 'stay_in_place.v.01', 'stay.v.04', 'be.v.01', 'check.v.07', 'stop.v.03', 'fasten.v.01', 'meet.v.04']"
+leave,"['time_off.n.01', 'permission.n.01', 'departure.n.01', 'make.v.02', 'refrain.v.01', 'move.v.03', 'yield.v.01', 'produce.v.03', 'change.v.02', 'pass.v.05', 'give.v.08', 'have.v.09', 'tell.v.02', 'lose.v.05']"
+miss,"['woman.n.01', 'failure.n.02', 'title.n.06', 'desire.v.01', 'fail.v.01', 'fail.v.02', 'avoid.v.01']"
+jetzt,
+called,"['label.v.01', 'label.v.01', 'telecommunicate.v.01', 'utter.v.02', 'order.v.01', 'meet.v.02', 'request.v.01', 'read.v.03', 'telecommunicate.v.01', 'utter.v.02', 'postpone.v.01', 'address.v.01', 'stop.v.04', 'demand.v.03', 'play.v.01', 'indicate.v.03', 'guess.v.02', 'ask.v.04', 'challenge.v.01', 'declare.v.04', 'entice.v.01', 'order.v.02', 'request.v.02', 'utter.v.02', 'challenge.v.01', 'see.v.05', 'awaken.v.01']"
+policy,"['plan_of_action.n.01', 'argumentation.n.02', 'contract.n.01']"
+realmattcouch,
+destroy,"['unmake.v.01', 'get_the_better_of.v.01', 'kill.v.01']"
+without,
+morning,"['time_period.n.01', 'farewell.n.01', 'greeting.n.01', 'hour.n.02', 'start.n.01']"
+account,"['record.n.01', 'news.n.02', 'relationship.n.03', 'statement.n.01', 'reason.n.01', 'importance.n.01', 'statement.n.07', 'informing.n.02', 'statement.n.07', 'profit.n.02', 'be.v.01', 'inform.v.01', 'declare.v.01']"
+lord,"['ruler.n.01', 'male_aristocrat.n.01', 'ennoble.v.02']"
+social,['party.n.02']
+followed,"['travel.v.01', 'result.v.01', 'travel.v.01', 'obey.v.01', 'result.v.01', 'imitate.v.01', 'be.v.03', 'choose.v.01', 'imitate.v.01', 'analyze.v.01', 'check.v.01', 'play.v.03', 'originate.v.01', 'act.v.02', 'practice.v.04', 'travel.v.01', 'understand.v.01', 'persevere.v.01']"
+school,"['educational_institution.n.01', 'building.n.01', 'education.n.03', 'body.n.02', 'time_period.n.01', 'educational_institution.n.01', 'animal_group.n.01', 'educate.v.01', 'polish.v.02', 'swim.v.01']"
+join,"['connection.n.06', 'set.n.01', 'connect.v.01', 'connect.v.01']"
+military,['force.n.04']
+hell,"['region.n.01', 'trouble.n.03', 'imaginary_place.n.01', 'imaginary_place.n.01', 'activity.n.01', 'mischief.n.01']"
+texas,[]
+gonna,
+earthquake,"['geological_phenomenon.n.01', 'disturbance.n.03']"
+gained,"['obtain.v.01', 'get.v.01', 'get.v.01', 'wax.v.02', 'increase.v.01', 'get.v.01', 'change_state.v.01']"
+racist,['bigot.n.01']
+supporter,"['advocate.n.01', 'benefactor.n.01', 'worker.n.01', 'band.n.07', ""man's_clothing.n.01"", 'protective_garment.n.01']"
+company,"['institution.n.01', 'army_unit.n.01', 'friendship.n.01', 'organization.n.01', 'visitor.n.01', 'social_gathering.n.01', 'set.n.05', 'complement.n.03', 'unit.n.03', 'consort.v.01']"
+union,"['organization.n.01', 'sexual_activity.n.01', 'state.n.02', 'marital_status.n.01', 'healing.n.01', 'political_unit.n.01', 'set.n.01', 'happening.n.01', 'device.n.05', 'combination.n.07']"
+former,['first.n.01']
+used,"['consume.v.02', 'exploit.v.01', 'act.v.01']"
+asked,"['communicate.v.02', 'request.v.01', 'give_voice.v.01', 'demand.v.01', 'address.v.01', 'demand.v.01']"
+trying,"['act.v.01', 'evaluate.v.02', 'decide.v.01', 'consume.v.02', 'probe.v.01', 'pain.v.02', 'afflict.v.01', 'melt.v.01', 'wear.v.09']"
+live,"['be.v.03', 'experience.v.01']"
+conservative,"['adult.n.01', 'member.n.01']"
+talking,"['conversation.n.01', 'communicate.v.02', 'communicate.v.02', 'communicate.v.02', 'tell.v.02', 'unwrap.v.02', 'teach.v.01']"
+maga,
+building,"['structure.n.01', 'creating_from_raw_materials.n.01', 'commercial_enterprise.n.02', 'gathering.n.01', 'make.v.03', 'develop.v.10', 'make.v.03', 'better.v.02', 'oversee.v.01', 'develop.v.01', 'create.v.03', 'establish.v.08', 'increase.v.02', 'intensify.v.03']"
+iammultiversal,
+stupid,['simpleton.n.01']
+agree,"['accept.v.03', 'equal.v.01', 'match.v.01', 'suit.v.02']"
+harris,[]
+speech,"['speech_act.n.01', 'auditory_communication.n.01', 'utterance.n.01', 'speaking.n.01', 'expressive_style.n.01', 'rebuke.n.01', 'line.n.05', 'faculty.n.01']"
+citizen,['national.n.01']
+signed,"['write.v.02', 'validate.v.01', 'contract.v.01', 'hire.v.01', 'communicate.v.02', 'put.v.01', 'communicate.v.02', 'gesticulate.v.01']"
+Berliner,['german.n.01']
+magnitude,"['property.n.02', 'ratio.n.01', 'importance.n.01']"
+truly,[]
+campaign,"['race.n.01', 'venture.n.01', 'operation.n.05', 'expedition.n.03', 'race.v.02', 'advertise.v.02']"
+four,"['digit.n.01', 'die.n.01', 'domino.n.04', 'spot.n.13']"
+force,"['influence.n.01', 'physical_phenomenon.n.01', 'intensity.n.02', 'organization.n.01', 'unit.n.03', 'aggression.n.03', 'causal_agent.n.01', 'social_group.n.01', 'validity.n.02', 'putout.n.01', 'compel.v.01', 'cause.v.01', 'move.v.02', 'compel.v.01', 'move.v.02', 'thrust.v.01', 'move.v.02', 'act.v.01', 'penetrate.v.01']"
+politician,"['leader.n.01', 'leader.n.01', 'schemer.n.01']"
+anything,
+ryanafournier,
+arrested,"['seize.v.01', 'defend.v.02', 'attract.v.01', 'stop.v.05']"
+fraud,"['crime.n.01', 'deceiver.n.01', 'trickery.n.02']"
+w_terrence,
+else,
+taking,"['action.n.01', 'act.v.01', 'use.v.03', 'change.v.02', 'interpret.v.01', 'transport.v.02', 'use.v.01', 'decide.v.01', 'get.v.01', 'work.v.02', 'think_about.v.01', 'experience.v.03', 'record.v.01', 'undergo.v.01', 'move.v.03', 'accept.v.02', 'receive.v.02', 'necessitate.v.01', 'head.v.01', 'position.v.01', 'become.v.01', 'have.v.02', 'get.v.01', 'buy.v.01', 'buy.v.01', 'sleep_together.v.01', 'affirm.v.02', 'be.v.01', 'be.v.01', 'traverse.v.01', 'win.v.01', 'sicken.v.02']"
+nancy,[]
+lying,"['falsification.n.02', 'be.v.03', 'exist.v.01', 'be.v.01', 'misinform.v.01', 'be.v.03', 'change_posture.v.01']"
+watching,"['look.n.02', 'check.v.01', 'watch.v.01']"
+place,"['point.n.02', 'geographical_area.n.01', 'cognition.n.01', 'vicinity.n.01', 'function.n.03', 'situation.n.02', 'residence.n.01', 'occupation.n.01', 'point.n.02', 'social_station.n.01', 'space.n.03', 'passage.n.02', 'condition.n.01', 'public_square.n.01', 'item.n.01', 'area.n.06', 'move.v.02', 'delegate.v.02', 'evaluate.v.02', 'station.v.01', 'order.v.02', 'rank.v.01', 'aim.v.01', 'determine.v.03', 'delegate.v.02', 'stage.v.01', 'estimate.v.01', 'situate.v.01', 'spend.v.02', 'move.v.02', 'race.v.02', 'sing.v.02']"
+electroboyusa,
+gopleader,
+rosannaphillip,
+freedom,"['state.n.02', 'unsusceptibility.n.01']"
+answer,"['statement.n.01', 'statement.n.01', 'reply.n.02', 'pleading.n.01', 'reaction.n.03', 'state.v.01', 'react.v.01', 'solve.v.01', 'solve.v.01', 'refute.v.01', 'be.v.01', 'satisfy.v.01', 'match.v.01', 'meet.v.04', 'react.v.01']"
+soon,[]
+valerio_scanu,
+huge,[]
+price,"['value.n.02', 'cost.n.01', 'value.n.02', 'worth.n.02', 'reward.n.04', 'cost.n.01', 'determine.v.03', 'ascertain.v.04']"
+heart,"['intuition.n.02', 'internal_organ.n.01', 'courage.n.01', 'area.n.01', 'content.n.05', 'disposition.n.01', 'plane_figure.n.01', 'variety_meat.n.01', 'feeling.n.01', 'playing_card.n.01']"
+understand,"['understand.v.01', 'believe.v.01']"
+agent,"['causal_agent.n.01', 'representative.n.01', 'causal_agent.n.01', 'substance.n.07', 'businessperson.n.01', 'official.n.01', 'semantic_role.n.01']"
+domestic,['servant.n.01']
+virus,"['infectious_agent.n.01', 'microorganism.n.01', 'representation.n.04', 'malevolent_program.n.01']"
+head,"['external_body_part.n.01', 'domestic_animal.n.01', 'cognition.n.01', 'leader.n.01', 'formation.n.01', 'pressure.n.01', 'top.n.01', 'beginning.n.04', 'word.n.01', 'point.n.08', 'linear_unit.n.01', 'plant_organ.n.01', 'educator.n.01', 'individual.n.02', 'drug_user.n.01', 'natural_elevation.n.01', 'object.n.01', 'foam.n.01', 'front.n.01', 'juncture.n.01', 'progress.n.03', 'mark.n.10', 'subject.n.01', 'line.n.05', 'structure.n.04', 'structure.n.04', 'coil.n.06', 'obverse.n.02', 'striker.n.05', 'toilet.n.01', 'projection.n.04', 'membrane.n.01', 'perversion.n.02', 'proceed.v.02', 'direct.v.04', 'precede.v.04', 'be.v.01', 'control.v.01', 'originate.v.01', 'lie.v.01', 'form.v.07', 'remove.v.01']"
+cost,"['outgo.n.01', 'value.n.02', 'value.n.02', 'be.v.01', 'necessitate.v.01']"
+tonight,['present.n.01']
+schumer,
+insurrection,['conflict.n.01']
+obama,
+thousand,['large_integer.n.01']
+idea,"['content.n.05', 'purpose.n.01', 'opinion.n.01', 'calculation.n.02', 'tune.n.01']"
+starting,"['turn.n.03', 'leave.v.01', 'make.v.03', 'begin.v.03', 'move.v.03', 'play.v.01', 'be.v.01', 'act.v.01', 'change_shape.v.01']"
+group,"['abstraction.n.06', 'unit.n.05', 'set.n.02', 'classify.v.01', 'meet.v.07']"
+care,"['work.n.01', 'judiciousness.n.01', 'anxiety.n.02', 'predicament.n.01', 'protection.n.01', 'repair.n.01', 'feel_for.v.01', 'help.v.01', 'desire.v.01', 'control.v.01', 'mind.v.02']"
+tedcruz,
+fight,"['military_action.n.01', 'conflict.n.01', 'aggressiveness.n.01', 'controversy.n.01', 'boxing.n.01', 'contend.v.06', 'try.v.01', 'advertise.v.02']"
+human,['hominid.n.01']
+game,"['activity.n.01', 'contest.n.01', 'diversion.n.01', 'animal.n.01', 'part.n.09', 'score.n.03', 'meat.n.01', 'scheme.n.01', 'game_equipment.n.01', 'occupation.n.01', 'play.n.14', 'bet.v.02']"
+january,['gregorian_calendar_month.n.01']
+threat,"['danger.n.03', 'warning.n.01', 'declaration.n.01', 'person.n.01']"
+peatches66,
+valerio,
+scanu,
+tha5sosvote,
+dancingwithastranger,
+violence,"['aggression.n.03', 'intensity.n.02', 'turbulence.n.03']"
+article,"['nonfiction.n.01', 'piece.n.06', 'artifact.n.01', 'section.n.01', 'determiner.n.02', 'oblige.v.02']"
+open,"['area.n.01', 'outside.n.01', 'tournament.n.01', 'public_knowledge.n.01', 'change_state.v.01', 'start.v.06', 'undo.v.01', 'yield.v.01', 'arise.v.04', 'move.v.15', 'expose.v.03']"
+killed,"['veto.v.01', 'end.v.02', 'be.v.01', 'hurt.v.06', 'overwhelm.v.01', 'hit.v.01', 'hit.v.01', 'drink.v.01', 'take_away.v.03', 'exhaust.v.01', 'switch_off.v.01', 'destroy.v.01']"
+everything,
+insulin,"['hormone.n.01', 'hypoglycemic_agent.n.01']"
+kk131066,
+trust,"['property.n.01', 'certainty.n.01', 'trait.n.01', 'consortium.n.01', 'belief.n.01', 'friendship.n.01', 'believe.v.01', 'permit.v.01', 'expect.v.01', 'wish.v.01', 'pass.v.05', 'lend.v.02']"
+different,[]
+fact,"['information.n.02', 'information.n.01', 'reality.n.02', 'concept.n.01']"
+john,"['room.n.01', 'customer.n.01']"
+important,[]
+high,"['degree.n.01', 'air_mass.n.01', 'elation.n.01', 'elation.n.01', 'topographic_point.n.01', 'secondary_school.n.01', 'gear.n.03']"
+fake,"['imitation.n.02', 'deceiver.n.01', 'feint.n.01', 're-create.v.01', 'cheat.v.03', 'feign.v.01']"
+wait,"['pause.n.01', 'inactivity.n.03', 'act.v.01', 'work.v.01']"
+light,"['actinic_radiation.n.01', 'source_of_illumination.n.01', 'position.n.03', 'physical_property.n.01', 'scene.n.01', 'condition.n.01', 'visual_property.n.01', 'friend.n.01', 'illumination.n.02', 'insight.n.03', 'expression.n.01', 'vitality.n.01', 'public_knowledge.n.01', 'ethical_motive.n.01', 'visual_signal.n.01', 'device.n.01', 'lighten.v.05', 'ignite.v.01', 'land.v.01', 'burn.v.05', 'fall.v.21', 'descend.v.01']"
+list,"['database.n.01', 'position.n.07', 'enumerate.v.01', 'register.v.01', 'move.v.03', 'lean.v.01', 'name.v.02']"
+jesus,[]
+funny,['joke.n.01']
+small,"['body_part.n.01', 'size.n.02']"
+kamalaharris,
+college,"['body.n.02', 'educational_institution.n.01', 'building_complex.n.01']"
+expert,['person.n.01']
+hatinhate,
+debjarvis4,
+brendabalazs,
+jodispissed8645,
+97juv6a7d8,
+harry_styles,
+secret,"['information.n.01', 'information.n.01', 'perplexity.n.01']"
+latest,['news.n.01']
+totally,[]
+double,"['base_hit.n.01', 'stand-in.n.01', 'person.n.01', 'multiple.n.01', 'raise.n.03', 'multiply.v.02', 'hit.v.01', 'bend.v.01', 'function.v.01', 'bid.v.04', 'reproduce.v.01']"
+sound,"['sound_property.n.01', 'sensation.n.01', 'mechanical_phenomenon.n.01', 'happening.n.01', 'auditory_communication.n.01', 'language_unit.n.01', 'channel.n.04', 'body_of_water.n.01', 'look.v.02', 'cause_to_be_perceived.v.01', 'announce.v.01', 'pronounce.v.01', 'quantify.v.02']"
+problem,"['difficulty.n.03', 'question.n.02', 'difficulty.n.02']"
+including,"['see.v.05', 'add.v.01', 'permit.v.01']"
+proud,[]
+self,"['consciousness.n.01', 'person.n.01']"
+seen,"['perceive.v.01', 'experience.v.01', 'imagine.v.01', 'think.v.01', 'watch.v.01', 'verify.v.01', 'visit.v.03', 'visit.v.03', 'tour.v.01', 'care.v.02', 'receive.v.05', 'consort.v.01', 'see.v.01', 'consider.v.05', 'detect.v.01', 'undergo.v.01', 'accompany.v.02', 'bet.v.02', 'understand.v.01']"
+isaiah,[]
+governor,"['politician.n.01', 'control.n.09']"
+peace,"['order.n.03', 'harmony.n.03', 'tranquillity.n.02', 'security.n.01', 'treaty.n.01']"
+realcandaceo,
+worker,"['person.n.01', 'commoner.n.01', 'insect.n.01', 'person.n.01']"
+though,[]
+continues,"['act.v.01', 'talk.v.01', 'keep.v.01', 'travel.v.01', 'prolong.v.02', 'act.v.01', 'act.v.01', 'be.v.01', 'be.v.03', 'be.v.01']"
+click,"['sound.n.04', 'stop_consonant.n.01', 'catch.n.06', 'depression.n.10', 'move.v.03', 'sound.v.02', 'sound.v.02', 'move.v.03', 'pronounce.v.01', 'utter.v.02']"
+giving,"['sharing.n.04', 'conveyance.n.02', 'disposal.n.03', 'supply.v.01', 'transfer.v.05', 'state.v.01', 'communicate.v.02', 'direct.v.04', 'communicate.v.02', 'make.v.03', 'think.v.03', 'produce.v.02', 'tell.v.02', 'make.v.03', 'pass.v.05', 'utter.v.02', 'release.v.08', 'transfer.v.05', 'use.v.01', 'administer.v.04', 'distribute.v.01', 'communicate.v.02', 'move.v.03', 'provide.v.02', 'give.v.03', 'change.v.02', 'estimate.v.01', 'execute.v.04', 'compensate.v.02', 'show.v.04', 'perform.v.03', 'stretch.v.04', 'toast.v.02', 'accord.v.02', 'express.v.01', 'pledge.v.04', 'submit.v.01', 'lead.v.05', 'permit.v.01', 'inflict.v.01', 'happen.v.01', 'accept.v.03', 'offer.v.02']"
+turn,"['curve.n.01', 'change_of_course.n.01', 'activity.n.01', 'development.n.04', 'movement.n.03', 'change_of_direction.n.01', 'rotation.n.01', 'shift.n.03', 'part.n.09', 'performance.n.01', 'favor.n.01', 'walk.n.04', 'move.v.03', 'change.v.02', 'transform.v.03', 'move.v.02', 'change.v.02', 'travel.v.01', 'change.v.02', 'transmit.v.04', 'move.v.03', 'move.v.02', 'send.v.01', 'till.v.01', 'shape.v.03', 'discolor.v.03', 'turn.v.07', 'injure.v.01', 'change.v.01', 'do.v.03', 'get.v.01', 'move.v.02', 'send.v.01', 'change_shape.v.01', 'operate.v.03', 'aim.v.01', 'appeal.v.02', 'change_state.v.01', 'senesce.v.01']"
+garage,"['outbuilding.n.01', 'repair_shop.n.01', 'store.v.02']"
+actually,[]
+unfollowed,
+atrumpest,
+PROMPT,"['cue.n.01', 'electronic_communication.n.01', 'cause.v.01', 'induce.v.02', 'inform.v.01']"
+norberta36,
+stray_kids,
+xchangewiser,
+justice,"['natural_virtue.n.01', 'righteousness.n.01', 'judgment.n.02', 'adjudicator.n.01', 'official.n.01', 'executive_department.n.01']"
+health,"['wellbeing.n.01', 'condition.n.01']"
+share,"['assets.n.01', 'stock_certificate.n.01', 'allotment.n.02', 'attempt.n.01', 'wedge.n.06', 'overlap.v.01', 'use.v.01', 'get.v.01', 'distribute.v.04', 'communicate.v.02']"
+foreign,[]
+sport,"['diversion.n.01', 'occupation.n.01', 'vacationer.n.01', 'person.n.01', 'athlete.n.01', 'organism.n.01', 'wit.n.01', 'have.v.02', 'play.v.05']"
+claim,"['assertion.n.01', 'assertion.n.01', 'demand.n.04', 'right.n.01', 'legal_right.n.01', 'demand.n.01', 'affirm.v.03', 'request.v.01', 'request.v.01', 'affirm.v.02', 'necessitate.v.01']"
+christian,['religious_person.n.01']
+economy,"['system.n.02', 'efficiency.n.02', 'frugality.n.01', 'action.n.01']"
+dems,
+moment,"['point.n.06', 'time.n.03', 'present.n.01', 'significance.n.01', 'force.n.02', 'statistic.n.01']"
+whole,"['concept.n.01', 'object.n.01']"
+change,"['happening.n.01', 'relation.n.01', 'action.n.01', 'consequence.n.01', 'cash.n.01', 'thing.n.08', 'clothing.n.01', 'coin.n.01', 'cash.n.01', 'difference.n.01', 'dress.v.01', 'replace.v.01', 'transfer.v.05', 'travel.v.01', 'change.v.02', 'replace.v.01']"
+bless,"['raise.v.07', 'confer.v.02', 'gesticulate.v.01', 'declare.v.01']"
+single,"['base_hit.n.01', 'digit.n.01', 'hit.v.01']"
+ecomemory1,
+shall,
+continue,"['act.v.01', 'talk.v.01', 'keep.v.01', 'travel.v.01', 'prolong.v.02', 'act.v.01', 'act.v.01', 'be.v.01', 'be.v.03', 'be.v.01']"
+deal,"['transaction.n.01', 'agreement.n.01', 'large_indefinite_quantity.n.01', 'board.n.02', 'wood.n.01', 'collection.n.01', 'result.n.03', 'distribution.n.03', 'allotment.n.02', 'broach.v.01', 'think_about.v.01', 'act.v.01', 'act.v.01', 'give.v.03', 'transact.v.01', 'control.v.01', 'behave.v.02', 'distribute.v.01', 'manage.v.02', 'distribute.v.04', 'pass.v.05', 'deal.v.06']"
+direction,"['path.n.03', 'position.n.07', 'inclination.n.01', 'message.n.02', 'social_control.n.01', 'message.n.02', 'control.n.05', 'command.n.01', 'concentration.n.05']"
+action,"['act.n.02', 'state.n.02', 'group_action.n.01', 'process.n.06', 'plot.n.03', 'drive.n.05', 'mechanism.n.05', 'proceeding.n.01', 'group_action.n.01', 'work.n.01', 'challenge.v.02', 'complete.v.01', 'effect.v.01']"
+episode,"['happening.n.01', 'section.n.01', 'broadcast.n.02', 'film.n.03']"
+shit,"['fecal_matter.n.01', 'bunk.n.04', 'small_indefinite_quantity.n.01', 'defecation.n.01', 'unpleasant_person.n.01', 'worthlessness.n.01', 'inform.v.01', 'excrete.v.01']"
+team,"['unit.n.03', 'animal_group.n.01', 'group.v.02']"
+past,"['time.n.05', 'time_period.n.01', 'tense.n.01']"
+apple,"['edible_fruit.n.01', 'pome.n.01', 'apple_tree.n.01']"
+fire,"['happening.n.01', 'attack.n.01', 'combustion.n.01', 'fireplace.n.01', 'element.n.05', 'passion.n.01', 'fuel.n.01', 'trial.n.06', 'criticism.n.01', 'blast.v.07', 'bake.v.01', 'remove.v.02', 'chase_away.v.01', 'make.v.03', 'destroy.v.02', 'supply.v.01']"
+sign,"['clue.n.02', 'communication.n.02', 'communication.n.02', 'structure.n.01', 'region.n.01', 'evidence.n.01', 'opposition.n.02', 'experience.n.03', 'gesture.n.02', 'language_unit.n.01', 'mathematical_notation.n.01', 'write.v.02', 'validate.v.01', 'contract.v.01', 'hire.v.01', 'communicate.v.02', 'put.v.01', 'communicate.v.02', 'gesticulate.v.01']"
+hate,"['emotion.n.01', 'dislike.v.01']"
+flag,"['emblem.n.01', 'list.n.01', 'iridaceous_plant.n.01', 'visual_signal.n.01', 'golf_equipment.n.01', 'paving_stone.n.01', 'tail.n.01', 'sign.v.05', 'mark.v.05', 'sink.v.01', 'decorate.v.01', 'decrease.v.01']"
+advisor,['authority.n.03']
+half,"['common_fraction.n.01', 'part.n.09']"
+christmas,"['season.n.03', 'feast_day.n.01', 'holy_day_of_obligation.n.01', 'legal_holiday.n.01', 'quarter_day.n.01']"
+steveinmanuic,
+reason,"['rational_motive.n.01', 'explanation.n.01', 'faculty.n.01', 'sanity.n.01', 'justification.n.02', 'fact.n.01', 'think.v.03', 'present.v.02', 'think.v.03']"
+mind,"['cognition.n.01', 'recall.n.04', 'opinion.n.01', 'intellectual.n.01', 'notice.n.02', 'purpose.n.01', 'intelligence.n.01', 'object.v.01', 'think_about.v.01', 'manage.v.02', 'obey.v.01', 'watch.v.05', 'remember.v.02']"
+image,"['representation.n.01', 'appearance.n.01', 'representation.n.02', 'model.n.07', 'rhetorical_device.n.01', 'person.n.01', 'set.n.02', 'impression.n.02', 'representation.n.02', 'visualize.v.02', 'imagine.v.01']"
+notice,"['announcement.n.02', 'attention.n.01', 'request.n.02', 'telling.n.02', 'sign.n.02', 'attention.n.01', 'review.n.02', 'spy.v.03', 'note.v.01', 'react.v.01']"
+parler,
+monitored,"['observe.v.04', 'observe.v.04']"
+warning,"['informing.n.02', 'advice.n.01', 'telling.n.02', 'inform.v.01', 'rede.v.02', 'order.v.01', 'inform.v.01']"
+carlosFREEnow,
+stray,"['domestic_animal.n.01', 'travel.v.01', 'travel.v.01', 'tell.v.02']"
+straykids,
+thegooddoctor,
+shot,"['propulsion.n.02', 'projectile.n.01', 'maneuver.n.03', 'opportunity.n.01', 'expert.n.01', 'photograph.n.01', 'medical_care.n.01', 'small_indefinite_quantity.n.01', 'remark.n.01', 'estimate.n.01', 'photograph.n.01', 'sports_equipment.n.01', 'charge.n.15', 'blow.n.01', 'attempt.n.01', 'attempt.n.01', 'rocket_firing.n.01', 'injure.v.01', 'kill.v.01', 'fire.v.02', 'record.v.01', 'project.v.10', 'rush.v.01', 'rush.v.01', 'hit.v.01', 'record.v.01', 'emit.v.02', 'ache.v.03', 'insert.v.02', 'weave.v.01', 'throw.v.14', 'consume.v.03', 'score.v.01', 'utter.v.02', 'measure.v.01', 'grow.v.03', 'administer.v.04']"
+heard,"['perceive.v.01', 'probe.v.01', 'pick_up.v.09', 'concentrate.v.02']"
+chinese,"['sinitic.n.01', 'asian.n.01']"
+abortion,"['termination.n.05', 'failure.n.02']"
+ensure,['verify.v.01']
+city,"['municipality.n.01', 'administrative_district.n.01', 'municipality.n.02']"
+knew,"['experience.v.01', 'accept.v.01', 'copulate.v.01', 'recognize.v.02', 'distinguish.v.01', 'remember.v.01']"
+cannot,
+dangerous,[]
+crime,"['transgression.n.01', 'transgression.n.01']"
+breitbartnews,
+beautiful,[]
+mike,['electro-acoustic_transducer.n.01']
+bring,"['transport.v.02', 'change.v.01', 'make.v.03', 'transmit.v.04', 'change.v.01', 'make.v.03', 'change.v.01', 'attract.v.01', 'induce.v.02']"
+liberal,"['adult.n.01', 'adult.n.01']"
+thinking,"['higher_cognitive_process.n.01', 'evaluate.v.02', 'expect.v.01', 'imagine.v.01', 'concentrate.v.02', 'think.v.03', 'think.v.03', 'think.v.01', 'think.v.03', 'change.v.01']"
+missed,"['desire.v.01', 'fail.v.01', 'fail.v.02', 'avoid.v.01']"
+future,"['time.n.05', 'tense.n.01', 'commodity.n.01']"
+riot,"['violence.n.01', 'disorder.n.03', 'joke.n.01', 'revel.n.01', 'rampage.v.01', 'revel.v.02']"
+trial,"['attempt.n.01', 'experiment.n.02', 'attempt.n.01', 'proceeding.n.01', 'contest.n.01', 'affliction.n.03']"
+hear,"['perceive.v.01', 'probe.v.01', 'pick_up.v.09', 'concentrate.v.02']"
+guess,"['opinion.n.02', 'estimate.n.01', 'expect.v.01', 'speculate.v.02', 'calculate.v.01', 'solve.v.01']"
+using,"['mistreatment.n.01', 'consume.v.02', 'exploit.v.01', 'act.v.01']"
+calling,"['occupation.n.01', 'label.v.01', 'label.v.01', 'telecommunicate.v.01', 'utter.v.02', 'order.v.01', 'meet.v.02', 'request.v.01', 'read.v.03', 'telecommunicate.v.01', 'utter.v.02', 'postpone.v.01', 'address.v.01', 'stop.v.04', 'demand.v.03', 'play.v.01', 'indicate.v.03', 'guess.v.02', 'ask.v.04', 'challenge.v.01', 'declare.v.04', 'entice.v.01', 'order.v.02', 'request.v.02', 'utter.v.02', 'challenge.v.01', 'see.v.05', 'awaken.v.01']"
+speakerpelosi,
+facebook,
+based,"['situate.v.01', 'drug.v.02']"
+wrong,"['injustice.n.02', 'injury.n.05', 'treat.v.01']"
+folk,"['people.n.01', 'social_group.n.01', 'lineage.n.01', 'popular_music.n.01']"
+newsmax,
+cruz,
+seanhannity,
+promise,"['commitment.n.04', 'speech_act.n.01', 'expectation.n.01', 'declare.v.01', 'declare.v.01', 'guess.v.02', 'be.v.01']"
+dear,"['lover.n.01', 'innocent.n.01']"
+play,"['dramatic_composition.n.01', 'show.n.03', 'plan_of_action.n.01', 'motion.n.06', 'action.n.02', 'use.n.01', 'attempt.n.01', 'diversion.n.01', 'measure.n.02', 'freedom.n.01', 'change.n.01', 'wit.n.01', 'movability.n.01', 'diversion.n.01', 'activity.n.01', 'diversion.n.01', 'vice.n.02', 'action.n.01', 'compete.v.01', 'act.v.01', 'perform.v.03', 're-create.v.01', 'act.v.08', 're-create.v.01', 'sound.v.06', 'act.v.02', 'travel.v.01', 'gamble.v.02', 'simulate.v.03', 'sound.v.03', 'perform.v.03', 'deploy.v.01', 'act.v.02', 'act.v.01', 'manipulate.v.02', 'exploit.v.01', 'consider.v.03', 'act.v.01', 'move.v.02', 'perform.v.03', 'make.v.03', 'discharge.v.02', 'bet.v.02', 'gamble.v.02', 'hit.v.01', 'use.v.01', 'use.v.01', 'exhaust.v.01']"
+held,"['direct.v.04', 'see.v.05', 'feel.v.01', 'disable.v.01', 'keep.v.03', 'have.v.01', 'include.v.01', 'continue.v.01', 'exist.v.01', 'affirm.v.02', 'be.v.01', 'be.v.01', 'request.v.01', 'protect.v.01', 'relate.v.05', 'capture.v.02', 'think.v.01', 'resist.v.02', 'refer.v.02', 'postpone.v.01', 'restrain.v.01', 'prevent.v.02', 'control.v.01', 'stop.v.05', 'cover.v.01', 'drink.v.02', 'aim.v.01', 'evaluate.v.02', 'restrain.v.01']"
+2021,
+dead,"['people.n.01', 'time.n.03']"
+seems,"['be.v.01', 'be.v.01', 'be.v.01', 'appear.v.04']"
+safe,"['strongbox.n.01', 'cupboard.n.01', 'contraceptive.n.01']"
+least,['matter.n.01']
+putin,[]
+navalny,
+yorkietime2,
+direct,"['order.v.01', 'aim.v.01', 'make.v.03', 'manage.v.02', 'move.v.02', 'position.v.01', 'perform.v.01', 'instruct.v.03', 'intend.v.02', 'control.v.01', 'label.v.01', 'plan.v.02']"
+damn,"['worthlessness.n.01', 'raise.v.07']"
+communist,"['politician.n.02', 'socialist.n.01']"
+ava4usa,
+iamsrk,
+Pfannkuchen,['pancake.n.01']
+statsawards,
+dieci,
+entire,['male_horse.n.01']
+couple,"['pair.n.03', 'family.n.02', 'small_indefinite_quantity.n.01', 'two.n.01', 'unit.n.05', 'join.v.02', 'attach.v.01', 'unite.v.01', 'join.v.04']"
+admin,
+longer,['person.n.01']
+michigan,['card_game.n.01']
+happened,"['happen.v.01', 'chance.v.01', 'happen.v.01']"
+check,"['draft.n.01', 'appraisal.n.01', 'bill.n.02', 'inaction.n.01', 'proof.n.01', 'inspection.n.01', 'mark.n.10', 'difficulty.n.02', 'blemish.n.01', 'weave.n.01', 'restraint.n.01', 'obstruction.n.05', 'chess_move.n.01', 'analyze.v.01', 'examine.v.02', 'verify.v.01', 'restrain.v.01', 'stop.v.01', 'verify.v.01', 'change.v.01', 'equal.v.01', 'obstruct.v.01', 'develop.v.12', 'consign.v.02', 'consign.v.02', 'stop.v.01', 'stop.v.01', 'draw.v.06', 'move.v.15', 'defend.v.02', 'attack.v.03', 'write_out.v.02', 'verify.v.01', 'stop.v.05', 'crack.v.11', 'change.v.02']"
+allowed,"['accept.v.03', 'give.v.03', 'assign.v.02', 'yield.v.01', 'calculate.v.02', 'discount.v.02', 'permit.v.01']"
+difference,"['quality.n.01', 'variation.n.01', 'disagreement.n.03', 'change.n.02', 'number.n.02']"
+face,"['external_body_part.n.01', 'countenance.n.01', 'appearance.n.01', 'surface.n.01', 'person.n.01', 'surface.n.02', 'external_body_part.n.01', 'front.n.04', 'facial_expression.n.01', 'type.n.04', 'status.n.01', 'aggressiveness.n.01', 'vertical_surface.n.01', 'set_about.v.01', 'meet.v.10', 'lie.v.01', 'be.v.03', 'turn.v.01', 'disclose.v.02', 'line.v.02', 'cover.v.01']"
+started,"['leave.v.01', 'make.v.03', 'begin.v.03', 'move.v.03', 'play.v.01', 'be.v.01', 'act.v.01', 'change_shape.v.01']"
+energy,"['physical_phenomenon.n.01', 'force.n.03', 'drive.n.05', 'liveliness.n.02', 'good_health.n.01', 'physical_phenomenon.n.01', 'executive_department.n.01']"
+sick,"['people.n.01', 'excrete.v.01']"
+flotus,
+court,"['assembly.n.04', 'room.n.01', 'government.n.01', 'playing_field.n.02', 'cortege.n.02', 'hotel.n.01', 'court.n.01', 'residence.n.02', 'area.n.05', 'deference.n.01', 'act.v.01', 'act.v.01']"
+general,"['general_officer.n.01', 'head.n.04', 'fact.n.01', 'command.v.01']"
+following,"['multitude.n.03', 'motion.n.06', 'travel.v.01', 'result.v.01', 'travel.v.01', 'obey.v.01', 'result.v.01', 'imitate.v.01', 'be.v.03', 'choose.v.01', 'imitate.v.01', 'analyze.v.01', 'check.v.01', 'play.v.03', 'originate.v.01', 'act.v.02', 'practice.v.04', 'travel.v.01', 'understand.v.01', 'persevere.v.01']"
+hello,['greeting.n.01']
+success,"['happening.n.01', 'attainment.n.01', 'prosperity.n.02', 'person.n.01']"
+panademic,
+dress,"[""woman's_clothing.n.01"", 'clothing.n.01', 'clothing.n.01', 'change.v.02', 'change_state.v.01', 'finish.v.04', 'dress.v.01', 'overdress.v.02', 'cook.v.02', 'position.v.01', 'decorate.v.01', 'arrange.v.01', 'put_on.v.07', 'thin_out.v.01', 'pare.v.04', 'convert.v.02', 'treat.v.03', 'fancify.v.01', 'groom.v.03']"

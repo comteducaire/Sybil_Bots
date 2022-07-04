@@ -1,0 +1,58 @@
+100
+[[0.0, 0.4892558613136465, 0.37059140607632396, 0.08334999532503189, 0.04182722380896647, 0.29201287908171086, 0.06211320014393532], 
+ [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+ [0.5066253602382074, 0.2946636793239408, 0.21544957618674945, 0.35681573691504115, 0.16610214854927907], 
+ [0.41926865764688703, 0.179588438086241, 0.4400225906213445, 0.2666114606731604], 
+ [0.24488294605207037, 0.28175803208176364, 0.3048313583336076], 
+ [0.058707652477862624, 0.11592965811473316], 
+ [0.19388727714855275]]
+ 
+[['0.0 (potus X joebiden)', '0.4892558613136465 (potus X biden)', '0.37059140607632396 (potus X republican)', '0.08334999532503189 (potus X capitol)', '0.04182722380896647 (potus X china)', '0.29201287908171086 (potus X impeachment)', '0.06211320014393532 (potus X troop)'], 
+ ['0.0 (joebiden X biden)', '0.0 (joebiden X republican)', '0.0 (joebiden X capitol)', '0.0 (joebiden X china)', '0.0 (joebiden X impeachment)', '0.0 (joebiden X troop)'], 
+ ['0.5066253602382074 (china X impeachment)', '0.2946636793239408 (biden X capitol)', '0.21544957618674945 (biden X china)', '0.35681573691504115 (biden X impeachment)', '0.16610214854927907 (biden X troop)'], 
+ ['0.41926865764688703 (capitol X china)', '0.179588438086241 (republican X china)', '0.4400225906213445 (china X troop)', '0.2666114606731604 (republican X troop)'], 
+ ['0.24488294605207037 (republican X capitol)', '0.28175803208176364 (capitol X impeachment)', '0.3048313583336076 (capitol X troop)'], 
+ ['0.058707652477862624 (biden X republican)', '0.11592965811473316 (republican X impeachment)'], 
+ ['0.19388727714855275 (impeachment X troop)']]
+==============================================
+==============================================
+300
+[[0.3900579756764866, 0.0, 0.17987911979997992, 0.0, 0.3247605740648347, 0.48551139473115346, 0.0], 
+ [0.0, 0.1705073030066814, 0.0, 0.1826441248768458, 0.3580423530661653, 0.0], 
+ [0.0, 0.0, 0.0, 0.0, 0.0], 
+ [0.0, 0.05290532790649985, 0.27977259982216374, 0.0], 
+ [0.0, 0.0, 0.0], 
+ [0.3115513493598139, 0.0], 
+ [0.0]]
+ 
+[['0.3900579756764866 (pelosi X potus)', '0.0 (pelosi X joebiden)', '0.17987911979997992 (pelosi X cybersecurity)', '0.0 (pelosi X choicefandom)', '0.3247605740648347 (pelosi X harris)', '0.48551139473115346 (pelosi X senate)', '0.0 (pelosi X teenchoice)'], 
+ ['0.0 (potus X joebiden)', '0.1705073030066814 (potus X cybersecurity)', '0.0 (potus X choicefandom)', '0.1826441248768458 (potus X harris)', '0.3580423530661653 (potus X senate)', '0.0 (potus X teenchoice)'], 
+ ['0.0 (joebiden X cybersecurity)', '0.0 (joebiden X choicefandom)', '0.0 (joebiden X harris)', '0.0 (joebiden X senate)', '0.0 (joebiden X teenchoice)'], 
+ ['0.0 (cybersecurity X choicefandom)', '0.05290532790649985 (cybersecurity X harris)', '0.27977259982216374 (cybersecurity X senate)', '0.0 (cybersecurity X teenchoice)'], 
+ ['0.0 (choicefandom X harris)', '0.0 (choicefandom X senate)', '0.0 (choicefandom X teenchoice)'], 
+ ['0.3115513493598139 (harris X senate)', '0.0 (harris X teenchoice)'], 
+ ['0.0 (senate X teenchoice)']]
+==============================================
+==============================================
+500
+[[0.26107991074951875, 0.13981776734991247, 0.0, 0.0, 0.06786503285053415, 0.15793625491845878, 0.4474250222337373, 0.07876526319357599, 0.0], 
+ [0.3900579756764866, 0.0, 0.0, 0.17987911979997992, 0.5530057224755461, 0.6406303866426892, -0.04088650360329271, 0.0], 
+ [0.0, 0.0, 0.1705073030066814, 0.3733144434414854, 0.4700242096558569, -0.12592266319727882, 0.0], 
+ [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+ [0.0, 0.0, 0.0, 0.0, 0.0], 
+ [0.23708904610237247, 0.21059263057638358, -0.050041019701614564, 0.0], 
+ [0.3909935065890937, 0.05793583976460652, 0.0], 
+ [0.04806345560288614, 0.0], 
+ [0.0]]
+ 
+[['0.26107991074951875 (january X pelosi)', '0.13981776734991247 (january X potus)', '0.0 (january X joebiden)', '0.0 (january X ava4usa)', '0.06786503285053415 (january X cybersecurity)', '0.15793625491845878 (january X schumer)', '0.4474250222337373 (january X obama)', '0.07876526319357599 (january X insulin)', '0.0 (january X jodispissed8645)'], 
+ ['0.3900579756764866 (pelosi X potus)', '0.0 (pelosi X joebiden)', '0.0 (pelosi X ava4usa)', '0.17987911979997992 (pelosi X cybersecurity)', '0.5530057224755461 (pelosi X schumer)', '0.6406303866426892 (pelosi X obama)', '-0.04088650360329271 (pelosi X insulin)', '0.0 (pelosi X jodispissed8645)'], 
+ ['0.0 (potus X joebiden)', '0.0 (potus X ava4usa)', '0.1705073030066814 (potus X cybersecurity)', '0.3733144434414854 (potus X schumer)', '0.4700242096558569 (potus X obama)', '-0.12592266319727882 (potus X insulin)', '0.0 (potus X jodispissed8645)'], 
+ ['0.0 (joebiden X ava4usa)', '0.0 (joebiden X cybersecurity)', '0.0 (joebiden X schumer)', '0.0 (schumer X obama)', '0.0 (joebiden X insulin)', '0.0 (joebiden X jodispissed8645)'], 
+ ['0.0 (ava4usa X cybersecurity)', '0.0 (ava4usa X schumer)', '0.0 (ava4usa X obama)', '0.0 (ava4usa X insulin)', '0.0 (ava4usa X jodispissed8645)'], 
+ ['0.23708904610237247 (cybersecurity X schumer)', '0.21059263057638358 (cybersecurity X obama)', '-0.050041019701614564 (cybersecurity X insulin)', '0.0 (cybersecurity X jodispissed8645)'], 
+ ['0.3909935065890937 (joebiden X obama)', '0.05793583976460652 (schumer X insulin)', '0.0 (schumer X jodispissed8645)'], 
+ ['0.04806345560288614 (obama X insulin)', '0.0 (obama X jodispissed8645)'], 
+ ['0.0 (insulin X jodispissed8645)']]
+==============================================
+==============================================

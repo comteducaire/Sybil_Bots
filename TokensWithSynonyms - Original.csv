@@ -1,0 +1,501 @@
+Token,Frequency,Synonyms
+trump,454,"{'trump', 'outflank', 'scoop', 'horn', 'cornet', 'trump_card', 'outdo', 'best', 'trump_out', 'ruff', 'trumpet'}"
+biden,374,{'biden'}
+president,229,"{'chairwoman', 'United_States_President', 'Chief_Executive', 'chairman', 'chair', 'chairperson', 'prexy', 'president', 'President_of_the_United_States', 'President'}"
+people,192,"{'multitude', 'people', 'hoi_polloi', 'mass', 'citizenry', 'masses', 'the_great_unwashed'}"
+like,157,"{'wish', 'alike', 'ilk', 'the_like', 'comparable', 'corresponding', 'like', 'same', 'the_likes_of', 'care', 'similar'}"
+BONG,146,"{'BONG', 'bong'}"
+know,135,"{'bed', 'get_laid', 'make_out', 'live', 'sleep_with', 'have_a_go_at_it', 'fuck', 'roll_in_the_hay', 'know', 'have_it_away', 'lie_with', 'screw', 'jazz', 'recognise', 'cognize', 'bang', 'acknowledge', 'sleep_together', 'do_it', 'experience', 'cognise', 'get_it_on', 'recognize', 'have_intercourse', 'have_it_off', 'make_love', 'eff', 'love', 'bonk', 'be_intimate', 'have_sex', 'hump'}"
+time,128,"{'clip', 'meter', 'sentence', 'prison_term', 'metre', 'clock', 'fourth_dimension', 'time', 'clock_time'}"
+need,104,"{'want', 'take', 'penury', 'require', 'call_for', 'postulate', 'pauperism', 'demand', 'need', 'necessitate', 'motivation', 'pauperization', 'ask', 'indigence', 'involve', 'motive'}"
+today,103,"{'now', 'today', 'nowadays'}"
+right,99,"{'right-hand', 'correctly', 'proper', 'flop', 'decently', 'decent', 'rectify', 'mighty', 'in_good_order', 'properly', 'aright', 'mightily', 'veracious', 'justly', 'right_field', 'correct', 'rightfield', 'rightfulness', 'compensate', 'redress', 'right_hand', 'good', 'the_right_way', 'ripe', 'powerful', 'right_wing', 'right_on', 'right'}"
+american,94,"{'american', 'American_English', 'American_language', 'American'}"
+would,94,{'would'}
+year,93,"{'class', 'year', 'twelvemonth', 'yr'}"
+america,92,"{'United_States', 'America', 'USA', 'america', 'United_States_of_America', 'US', 'the_States', 'U.S.', 'U.S.A.'}"
+want,91,"{'wish', 'want', 'require', 'desire', 'need', 'privation', 'deficiency', 'neediness', 'wishing', 'lack', 'deprivation'}"
+love,89,"{'making_love', 'bed', 'get_laid', 'make_out', 'dearest', 'lovemaking', 'sleep_with', 'have_a_go_at_it', 'fuck', 'roll_in_the_hay', 'dear', 'know', 'have_it_away', 'lie_with', 'screw', 'jazz', 'beloved', 'erotic_love', 'bang', 'sexual_love', 'honey', 'sleep_together', 'do_it', 'love_life', 'get_it_on', 'enjoy', 'have_intercourse', 'have_it_off', 'make_love', 'eff', 'love', 'passion', 'bonk', 'be_intimate', 'have_sex', 'hump'}"
+back,88,"{'rear', 'indorse', 'second', 'back_up', 'back', 'binding', 'cover', 'backrest', 'plump_for', 'spinal_column', 'bet_on', 'rachis', 'game', 'gage', 'stake', 'backwards', 'dorsum', 'hinder', 'plunk_for', 'hind', 'punt', 'spine', 'support', 'endorse', 'vertebral_column', 'book_binding', 'backbone', 'backward', 'rearward', 'rearwards'}"
+make,85,"{'do', 'construct', 'produce', 'pass_water', 'earn', 'crap', 'lay_down', 'pee-pee', 'draw', 'name', 'get', 'throw', 'spend_a_penny', 'wee-wee', 'score', 'clear', 'stimulate', 'fix', 'give', 'take_a_leak', 'have', 'brand', 'cause', 'take_in', 'reach', 'hit', 'defecate', 'puddle', 'make_up', 'piss', 'work', 'ready', 'make', 'constitute', 'hold', 'pull_in', 'create', 'shuffle', 'progress_to', 'attain', 'take', 'cook', 'prepare', 'induce', 'wee', 'gain', 'realise', 'pretend', 'establish', 'stool', 'build', 'micturate', 'arrive_at', 'take_a_crap', 'form', 'ca-ca', 'shit', 'realize', 'seduce', 'pee', 'shuffling', 'make_believe', 'piddle', 'urinate', 'get_to', 'take_a_shit', 'nominate', 'make_water', 'relieve_oneself', 'bring_in'}"
+think,83,"{'cogitate', 'cerebrate', 'recollect', 'consider', 'suppose', 'remember', 'reckon', 'call_back', 'mean', 'think', 'imagine', 'believe', 'intend', 'opine', 'retrieve', 'recall', 'conceive', 'call_up', 'guess'}"
+republican,82,"{'Republican', 'republican', 'Republican_River'}"
+good,81,"{'goodness', 'secure', 'unspoilt', 'honorable', 'skillful', 'salutary', 'upright', 'practiced', 'dear', 'skilful', 'in_effect', 'beneficial', 'commodity', 'honest', 'undecomposed', 'unspoiled', 'proficient', 'sound', 'dependable', 'expert', 'estimable', 'near', 'safe', 'well', 'full', 'just', 'serious', 'in_force', 'good', 'ripe', 'thoroughly', 'adept', 'respectable', 'effective', 'soundly', 'right', 'trade_good'}"
+state,78,"{'State_Department', 'state_of_matter', 'express', 'Department_of_State', 'nation', 'DoS', 'province', 'country', 'submit', 'United_States_Department_of_State', 'res_publica', 'State', 'say', 'land', 'posit', 'tell', 'state', 'commonwealth', 'body_politic', 'put_forward'}"
+never,78,"{'never', ""ne'er""}"
+onedirection,78,{'onedirection'}
+election,74,{'election'}
+first,73,"{'low', 'first-class_honours_degree', 'for_the_first_time', 'showtime', 'get-go', 'first', 'first_base', 'initiatory', 'world-class', 'low_gear', '1st', 'inaugural', 'maiden', 'first_of_all', 'kickoff', 'number_one', 'foremost', 'start', 'outset', 'first_gear', 'commencement', 'initiative', 'starting_time', 'number_1', 'beginning', 'firstly', 'offset', 'first_off'}"
+vote,72,"{'suffrage', 'balloting', 'voter_turnout', 'vote', 'right_to_vote', 'voting', 'ballot'}"
+Valerio_Scanu,72,{'Valerio_Scanu'}
+thing,70,"{'affair', 'thing', 'matter'}"
+take,70,"{'claim', 'accept', 'acquire', 'postulate', 'take_up', 'take_aim', 'occupy', 'subscribe', 'bring', 'subscribe_to', 'read', 'train', 'get', 'carry', 'guide', 'consider', 'submit', 'remove', 'aim', 'get_hold_of', 'hire', 'payoff', 'choose', 'have', 'issue', 'take_in', 'contain', 'fill', 'assume', 'look_at', 'require', 'direct', 'select', 'study', 'learn', 'take', 'make', 'pack', 'deal', 'admit', 'hold', 'exact', 'contract', 'strike', 'engage', 'convey', 'withdraw', 'return', 'take_away', 'consume', 'demand', 'rent', 'involve', 'drive', 'charter', 'ingest', 'proceeds', 'adopt', 'lease', 'lead', 'call_for', 'conduct', 'take_on', 'takings', 'use_up', 'pick_out', 'yield', 'necessitate', 'ask', 'need', 'shoot', 'film'}"
+last,69,"{'last', 'utmost', 'live', 'finale', 'death', 'hold_up', 'stopping_point', 'finally', ""cobbler's_last"", 'go', 'conclusion', 'finis', 'in_conclusion', 'finish', 'survive', ""shoemaker's_last"", 'last-place', 'end', 'endure', 'lastly', 'final_stage', 'final', 'terminal', 'net', 'lowest', 'live_on', 'concluding', 'hold_out', 'close'}"
+going,69,"{'blend', 'depart', 'loss', 'passing', 'give_way', 'last', 'run_short', 'live', 'drop_dead', 'proceed', 'hold_up', 'locomote', 'get', 'release', 'going', 'expiration', 'run', 'go', 'conk', 'leaving', 'going_away', 'extend', 'go_away', 'break_down', 'become', 'perish', 'sledding', 'rifle', 'travel', 'work', 'sound', 'break', 'survive', 'exit', 'run_low', 'pop_off', 'start', 'blend_in', 'croak', 'buy_the_farm', 'function', 'pass', 'endure', 'decease', 'give-up_the_ghost', 'choke', 'belong', 'give_out', ""cash_in_one's_chips"", 'get_going', 'conk_out', 'departure', 'lead', 'pass_away', 'expire', 'operate', 'live_on', 'go_bad', 'move', 'fit', 'plump', 'die', 'fail', 'snuff_it', 'hold_out', 'kick_the_bucket'}"
+party,68,"{'political_party', 'party', 'company'}"
+democrat,68,"{'populist', 'Democrat', 'democrat'}"
+left,67,"{'left-hand', 'depart', 'allow_for', 'left_field', 'go_out', 'left_wing', 'leave_behind', 'bequeath', 'leave_alone', 'get_out', 'forget', 'go_forth', 'left', 'leave', 'remaining', 'leftfield', 'entrust', 'give', 'impart', 'go_away', 'leftover', 'pull_up_stakes', 'left_over', 'pass_on', 'exit', 'unexpended', 'left_hand', 'result', 'lead', 'odd', 'will', 'provide', 'allow'}"
+news,66,"{'newsworthiness', 'intelligence', 'word', 'news', 'news_show', 'news_program', 'tidings'}"
+breaking,66,"{'break-dance', 'split_up', 'give_way', 'break_in', 'bankrupt', 'damp', 'come_apart', 'get_out', 'get_around', 'crack', 'relegate', 'unwrap', 'break_away', 'soften', 'go', 'give', 'better', 'fall_apart', 'breach', 'burst', 'founder', 'break_down', 'fracture', 'discontinue', 'breakage', 'break_off', 'break_out', 'divulge', 'break', 'break_up', 'ruin', 'disclose', 'erupt', 'give_away', 'smash', 'break_dance', 'discover', 'separate', 'split', 'let_out', 'wear', 'snap_off', 'intermit', 'develop', 'violate', 'kick_downstairs', 'demote', 'weaken', 'dampen', 'expose', 'breaking', 'infract', 'offend', 'give_out', 'bring_out', 'conk_out', 'part', 'cave_in', 'pause', 'reveal', 'bump', 'recrudesce', 'let_on', 'transgress', 'go_bad', 'go_against', 'fail', 'die', 'wear_out', 'interrupt', 'collapse', 'check', 'stop', 'bust', 'fall_in'}"
+thank,65,"{'give_thanks', 'thank'}"
+donald,65,{'donald'}
+really,64,"{'very', 'actually', 'really', 'real', 'genuinely', 'in_truth', 'rattling', 'truly'}"
+follower,64,{'follower'}
+million,63,"{'one_thousand_thousand', 'meg', 'trillion', 'million', 'zillion', 'billion', 'jillion', '1000000', 'gazillion'}"
+many,62,{'many'}
+help,61,"{'assist', 'service', 'aid', 'assistant', 'facilitate', 'helper', 'assistance', 'avail', 'serve', 'help_oneself', 'supporter', 'help'}"
+house,60,"{'star_sign', 'theater', 'sign_of_the_zodiac', 'family', 'household', 'mansion', 'sign', 'business_firm', 'theatre', 'menage', 'firm', 'planetary_house', 'house', 'domiciliate', 'put_up', 'home'}"
+look,60,"{'expression', 'await', 'looking_at', 'face', 'feeling', 'search', 'feel', 'take_care', 'aspect', 'seem', 'tone', 'depend', 'look', 'front', 'facial_expression', 'spirit', 'reckon', 'appear', 'bet', 'calculate', 'looking', 'flavour', 'attend', 'expect', 'wait', 'see', 'count', 'flavor', 'smell'}"
+even,60,"{'yet', 'still', 'tied', 'even_out', 'eventide', 'fifty-fifty', 'eve', 'regular', 'evening', 'flush', 'level', 'even'}"
+every,58,{'every'}
+twitter,58,"{'chirrup', 'chitter', 'twitter'}"
+jackposobiec,57,{'jackposobiec'}
+great,57,"{'groovy', 'gravid', 'outstanding', 'neat', 'capital', 'majuscule', 'dandy', 'large', 'bully', 'cracking', 'great', 'slap-up', 'not_bad', 'corking', 'enceinte', 'swell', 'nifty', 'bang-up', 'big', 'smashing', 'expectant', 'keen', 'with_child', 'peachy', 'heavy'}"
+please,56,"{'delight', 'please'}"
+work,56,"{'ferment', 'put_to_work', 'forge', 'crop', 'work_on', 'bring', 'cultivate', 'mold', 'knead', 'act', 'run', 'go', 'act_upon', 'employment', 'turn', 'do_work', 'figure_out', 'study', 'workplace', 'work', 'puzzle_out', 'exploit', 'play', 'make', 'lick', 'mould', 'solve', 'exercise', 'function', 'body_of_work', 'process', 'form', 'operate', 'piece_of_work', 'influence', 'sour', 'work_out', 'wreak', 'shape', 'oeuvre', 'make_for'}"
+lost,56,"{'fall_back', 'fall_behind', 'mixed-up', 'drop_off', 'suffer', 'confused', 'lose', 'lost', 'misplace', 'preoccupied', 'helpless', 'recede', 'turn_a_loss', 'bewildered', 'doomed', 'bemused', 'befuddled', 'confounded', 'mazed', 'disoriented', 'baffled', 'miss', 'mislay', 'missed', 'at_sea', 'deep_in_thought'}"
+well,56,"{'fountainhead', 'easily', 'wellspring', 'good', 'well', 'swell', 'intimately', 'comfortably', 'considerably', 'substantially', 'advantageously'}"
+watch,55,"{'look_on', 'follow', 'catch', 'sentinel', 'lookout_man', 'determine', 'watch', 'take_in', 'ticker', 'lookout', 'view', 'vigil', 'learn', 'watch_over', 'spotter', 'ascertain', 'scout', 'see', 'find_out', 'sentry', 'observe', 'keep_an_eye_on', 'watch_out', 'picket', 'look_out', 'check'}"
+video,55,"{'picture', 'television', 'TV', 'video_recording', 'video', 'telecasting'}"
+said,55,"{'order', 'suppose', 'pronounce', 'allege', 'said', 'enunciate', 'sound_out', 'tell', 'enounce', 'state', 'aforementioned', 'enjoin', 'aver', 'say', 'read', 'articulate', 'aforesaid'}"
+joebiden,55,{'joebiden'}
+national,52,"{'interior', 'subject', 'home', 'internal', 'national'}"
+covid,52,{'covid'}
+medium,51,"{'spiritualist', 'metier', 'intermediate', 'average', 'medium', 'sensitive', 'culture_medium', 'mass_medium'}"
+catturd2,50,{'catturd2'}
+still,50,"{'inactive', 'even_so', 'unruffled', 'nonetheless', 'quiet', 'quieten', 'motionless', 'soundless', 'smooth', 'even', 'withal', 'yet', 'still', 'placid', 'allay', 'stock-still', 'lull', 'noneffervescent', 'tranquillize', 'ease', 'calm', 'distillery', 'all_the_same', 'tranquil', 'nevertheless', 'calm_down', 'however', 'silent', 'hush', 'notwithstanding', 'tranquillise', 'shut_up', 'relieve', 'tranquilize', 'silence', 'static', 'hush_up', 'stillness'}"
+troop,50,"{'troop', 'scout_group', 'flock', 'scout_troop', 'parade', 'promenade'}"
+must,48,"{'moldiness', 'must', 'mustiness'}"
+keep,48,"{'hold_open', 'go_on', 'keep', 'stay_fresh', 'proceed', 'save', 'dungeon', 'bread_and_butter', 'hold_back', 'preserve', 'go_along', 'living', 'sustain', 'retain', 'hold', 'celebrate', 'support', 'keep_on', 'hold_on', 'keep_open', 'livelihood', 'restrain', 'maintain', 'observe', 'keep_back', 'prevent', 'sustenance', 'donjon', 'continue'}"
+remember,47,"{'retrieve', 'call_back', 'recall', 'remember', 'commend', 'think', 'commemorate', 'call_up', 'think_back', 'think_of', 'recollect'}"
+donaldjtrumpjr,47,{'donaldjtrumpjr'}
+hour,47,"{'hour', 'minute', 'time_of_day', '60_minutes', 'hr'}"
+order,47,"{'order', 'grade', 'ordering', 'social_club', 'order_of_magnitude', 'fiat', 'rate', 'rank', 'rules_of_order', 'govern', 'club', 'edict', 'parliamentary_law', 'Holy_Order', 'orderliness', 'purchase_order', 'society', 'parliamentary_procedure', 'lodge', 'range', 'guild', 'consecrate', 'ordination', 'regulate', 'prescribe', 'dictate', 'regularize', 'regularise', 'say', 'put', 'ordinate', 'set_up', 'decree', 'gild', 'arrange', 'tell', 'Order', 'monastic_order', 'rescript', 'enjoin', 'place', 'ordain'}"
+call,46,"{'claim', 'send_for', 'Call', 'bid', 'predict', 'hollo', 'phone', 'name', 'telephone', 'outcry', 'ring', 'visit', 'telephone_call', 'promise', 'prognosticate', 'vociferation', 'foretell', 'address', 'forebode', 'yell', 'scream', 'anticipate', 'call', 'birdcall', 'holler', 'shout', 'margin_call', 'shout_out', 'phone_call', 'call_in', 'call_off', 'cry', 'birdsong', 'squall', 'call_option', 'song', 'call_up'}"
+patriot,46,"{'patriot', 'nationalist'}"
+woman,46,"{'fair_sex', 'charwoman', 'cleaning_lady', 'adult_female', 'char', 'womanhood', 'woman', 'cleaning_woman'}"
+world,46,"{'universe', 'human_beings', 'populace', 'humanity', 'earthly_concern', 'domain', 'reality', 'creation', 'world', 'humans', 'earth', 'worldly_concern', 'humankind', 'human_race', 'world-wide', 'mankind', 'public', 'cosmos', 'existence', 'worldwide', 'macrocosm', 'man', 'Earth', 'globe', 'planetary', 'global'}"
+week,45,"{'hebdomad', 'calendar_week', 'workweek', 'week'}"
+voted,45,"{'voted', 'vote'}"
+realdonaldtrump,45,{'realdonaldtrump'}
+potus,45,{'potus'}
+come,44,"{'seed', 'do', 'make_out', 'come_up', 'follow', 'seminal_fluid', 'cum', 'get', 'get_along', 'descend', 'number', 'amount', 'total', 'arrive', 'fall', 'fare', 'come', 'hail', 'derive', 'come_in', 'issue_forth', 'ejaculate', 'occur', 'semen', 'add_up'}"
+life,44,"{'aliveness', 'lifetime', 'sprightliness', 'animation', 'life', 'liveliness', 'life_history', 'spirit', 'life_story', 'life-time', 'life_sentence', 'biography', 'living', 'lifespan'}"
+plan,44,"{'contrive', 'program', 'project', 'be_after', 'plan', 'architectural_plan', 'design', 'programme'}"
+capitol,44,"{'Capitol', 'capitol', 'Capitol_Building'}"
+give,44,"{'gift', 'spring', 'give_way', 'open', 'pay', 'generate', 'sacrifice', 'render', 'chip_in', 'throw', 'afford', 'leave', 'present', 'give', 'impart', 'have', 'founder', 'reach', 'commit', 'break', 'pass_on', 'springiness', 'consecrate', 'make', 'hold', 'feed', 'turn_over', 'ease_up', 'return', 'pass', 'dedicate', 'establish', 'grant', 'cave_in', 'devote', 'apply', 'move_over', 'hand', 'collapse', 'contribute', 'yield', 'kick_in', 'fall_in'}"
+stats,44,{'stats'}
+tweet,43,"{'twirp', 'nip', 'twitch', 'pinch', 'twinge', 'squeeze', 'tweet'}"
+hope,43,"{'Hope', 'Bob_Hope', 'go_for', 'hope', 'promise', 'Leslie_Townes_Hope', 'trust', 'desire'}"
+stop,42,"{'kibosh', 'stopover', 'lay_off', 'block_off', 'diaphragm', 'occlusion', 'barricade', 'plosive_consonant', 'stop_over', 'catch', 'cease', 'period', 'hold_back', 'finish', 'discontinue', 'break_off', 'contain', 'terminate', 'break', 'quit', 'plosive', 'occlusive', 'layover', 'stoppage', 'end', 'stop_consonant', 'plosive_speech_sound', 'stay', 'turn_back', 'hold_on', 'arrest', 'blockage', 'full_point', 'block', 'closure', 'full_stop', 'hitch', 'halt', 'blockade', 'give_up', 'block_up', 'bar', 'check', 'intercept', 'point', 'stop'}"
+country,42,"{'land', 'area', 'state', 'commonwealth', 'body_politic', 'nation', 'rural_area', 'res_publica', 'country'}"
+china,41,"{'Republic_of_China', 'China', 'Nationalist_China', 'chinaware', ""People's_Republic_of_China"", 'mainland_China', 'Cathay', 'Taiwan', 'Communist_China', 'PRC', 'Red_China', 'china'}"
+white,41,"{'tweed', 'snowy', 'Edward_D._White', 'flannel', 'blanched', 'Theodore_Harold_White', 'ashen', 'white', 'whitened', 'Caucasian', 'E._B._White', 'Edward_White', 'White_River', 'gabardine', 'blank', 'egg_white', 'Patrick_White', 'albumen', 'lily-white', 'T._H._White', 'Patrick_Victor_Martindale_White', 'White_person', 'White', 'whiten', 'white-hot', 'clean', 'Edward_Douglas_White_Jr.', 'Andrew_Dickson_White', 'Stanford_White', 'livid', 'ovalbumin', 'Andrew_D._White', 'whiteness', 'bloodless', 'Elwyn_Brooks_White'}"
+free,41,"{'unloosen', 'free', 'costless', 'resign', 'unloose', 'release', 'rid', 'loose', 'spare', 'barren', 'detached', 'absolve', 'justify', 'disembarrass', 'innocent', 'complimentary', 'relinquish', 'gratis', 'unblock', 'unfreeze', 'liberal', 'relieve', 'exempt', 'destitute', 'discharge', 'gratuitous', 'give_up', 'devoid', 'disengage', 'free_people', 'dislodge', 'liberate'}"
+support,41,"{'stick_out', 'keep', 'indorse', 'corroborate', 'back_up', 'subscribe', 'back', 'keep_going', 'bear', 'suffer', 'bear_out', 'plump_for', 'hold_up', 'underpin', 'substantiate', 'stomach', 'digest', 'patronize', 'reinforcement', 'abide', 'bread_and_butter', 'supporting', 'patronise', 'living', 'plunk_for', 'sustain', 'brook', 'accompaniment', 'patronage', 'reenforcement', 'hold', 'stand', 'financial_backing', 'defend', 'musical_accompaniment', 'tolerate', 'support', 'affirm', 'endorse', 'endure', 'livelihood', 'documentation', 'financial_support', 'funding', 'backing', 'confirm', 'fend_for', 'backup', 'sustenance', 'put_up'}"
+believe,41,"{'consider', 'believe', 'think', 'trust', 'conceive'}"
+could,41,{'could'}
+follow,41,"{'come_after', 'postdate', 'succeed', 'espouse', 'stick_to', 'follow', 'trace', 'travel_along', 'conform_to', 'pursue', 'keep_abreast', 'play_along', 'abide_by', 'watch', 'survey', 'accompany', 'keep_up', 'come', 'watch_over', 'fall_out', 'stick_with', 'comply', 'adopt', 'observe', 'keep_an_eye_on', 'surveil', 'be', 'take_after'}"
+report,40,"{'paper', 'report_card', 'theme', 'describe', 'reputation', 'written_report', 'report', 'cover', 'study', 'account', 'story', 'write_up', 'composition', 'news_report'}"
+start,40,"{'depart', 'set_out', 'take_up', 'originate', 'showtime', 'get-go', 'commence', 'first', 'bug_out', 'scratch_line', 'get', 'set_forth', 'bulge_out', 'go', 'take_off', 'come_out', 'kickoff', 'set_off', 'protrude', 'pop_out', 'scratch', 'start_up', 'startle', 'starting_signal', 'start', 'outset', 'head_start', 'pop', 'bulge', 'commencement', 'get_down', 'part', 'get_going', 'jump', 'set_about', 'lead_off', 'initiate', 'starting_time', 'embark_on', 'beginning', 'offset', 'begin', 'start_out', 'starting', 'starting_line'}"
+impeachment,40,{'impeachment'}
+office,40,"{'spot', 'power', 'position', 'post', 'office', 'situation', 'authority', 'billet', 'agency', 'office_staff', 'berth', 'role', 'function', 'part', 'government_agency', 'federal_agency', 'bureau', 'place', 'business_office'}"
+directioners,40,{'directioners'}
+nothing,39,"{'zippo', 'naught', 'aught', 'zip', 'nil', 'null', 'goose_egg', 'cipher', 'nada', 'zero', 'nix', 'cypher', 'zilch', 'nothing'}"
+thought,39,"{'cogitate', 'sentiment', 'persuasion', 'cerebrate', 'recollect', 'consider', 'suppose', 'thinking', 'remember', 'mentation', 'intellection', 'view', 'cerebration', 'reckon', 'opinion', 'call_back', 'thought_process', 'mean', 'think', 'thought', 'believe', 'imagine', 'intend', 'call_up', 'opine', 'retrieve', 'recall', 'conceive', 'guess', 'idea'}"
+ever,38,"{'ever', 'ever_so', 'of_all_time', ""e'er"", 'always'}"
+word,38,"{'word_of_honor', 'Scripture', 'discussion', 'Word', 'give-and-take', 'parole', 'Good_Book', 'intelligence', 'formulate', 'Book', 'Christian_Bible', 'Bible', 'Logos', 'watchword', 'news', 'word', 'phrase', 'Son', 'Holy_Scripture', 'countersign', 'Word_of_God', 'give_voice', 'password', 'tidings', 'articulate', 'Holy_Writ'}"
+family,38,"{'menage', 'home', 'family_line', 'kinsperson', 'kinsfolk', 'fellowship', 'phratry', 'house', 'family', 'class', 'category', 'crime_syndicate', 'kinfolk', 'family_unit', 'kin', 'sept', 'household', 'syndicate', 'mob', 'folk'}"
+already,38,{'already'}
+message,38,"{'message', 'subject_matter', 'content', 'substance'}"
+better,38,"{'secure', 'unspoilt', 'honorable', 'wagerer', 'skillful', 'considerably', 'improve', 'salutary', 'upright', 'practiced', 'punter', 'dear', 'better', 'skilful', 'bettor', 'amend', 'in_effect', 'beneficial', 'substantially', 'honest', 'break', 'undecomposed', 'proficient', 'sound', 'dependable', 'unspoiled', 'advantageously', 'expert', 'estimable', 'near', 'safe', 'meliorate', 'ameliorate', 'best', 'well', 'full', 'just', 'serious', 'easily', 'in_force', 'good', 'ripe', 'adept', 'comfortably', 'intimately', 'respectable', 'effective', 'right'}"
+political,37,{'political'}
+everyone,37,{'everyone'}
+business,37,"{'business', 'patronage', 'occupation', 'job', 'business_sector', 'stage_business', 'business_organisation', 'byplay', 'business_organization', 'line', 'commercial_enterprise', 'business_enterprise', 'line_of_work', 'business_concern', 'concern', 'clientele'}"
+mask,36,"{'block_out', 'masque', 'disguise', 'masquerade', 'cloak', 'masquerade_party', 'dissemble', 'mask'}"
+show,36,"{'register', 'express', 'record', 'read', 'render', 'show_up', 'display', 'present', 'shew', 'indicate', 'designate', 'appearance', 'usher', 'evince', 'prove', 'exhibit', 'depict', 'establish', 'bear_witness', 'show', 'demonstrate', 'picture', 'evidence', 'testify', 'demo', 'point'}"
+anyone,36,{'anyone'}
+teenchoice,36,{'teenchoice'}
+choicefandom,36,{'choicefandom'}
+police,35,"{'police', 'patrol', 'law', 'police_force', 'constabulary'}"
+senate,35,"{'United_States_Senate', 'senate', 'Senate', 'U.S._Senate', 'US_Senate'}"
+told,35,"{'order', 'told', 'recount', 'secernate', 'severalise', 'severalize', 'separate', 'say', 'assure', 'evidence', 'tell_apart', 'tell', 'state', 'distinguish', 'narrate', 'enjoin', 'differentiate', 'recite', 'secern'}"
+much,35,"{'lots', 'much', 'often', 'practically', 'a_great_deal', 'a_good_deal', 'a_lot', 'very_much'}"
+senator,35,{'senator'}
+voting,34,"{'voting', 'balloting', 'vote', 'ballot'}"
+friend,33,"{'Quaker', 'admirer', 'acquaintance', 'friend', 'Friend', 'protagonist', 'ally', 'supporter', 'booster', 'champion'}"
+name,33,"{'public_figure', 'list', 'mention', 'diagnose', 'advert', 'key', 'bring_up', 'figure', 'cite', 'make', 'constitute', 'discover', 'key_out', 'call', 'gens', 'epithet', 'describe', 'distinguish', 'refer', 'identify', 'name', 'nominate', 'appoint'}"
+death,33,"{'last', 'dying', 'end', 'destruction', 'decease', 'demise', 'expiry', 'death', 'Death'}"
+done,33,"{'set', 'do', 'make_out', 'execute', 'practice', 'perform', 'get_along', 'act', 'suffice', 'coiffure', 'cause', 'serve', 'coif', 'fare', 'make', 'come', 'through_with', 'exercise', 'dress', 'practise', 'behave', 'manage', 'through', 'coiffe', 'arrange', 'answer', 'done'}"
+feel,33,"{'feeling', 'sense', 'spirit', 'tactile_property', 'look', 'tone', 'flavor', 'find', 'finger', 'experience', 'feel', 'smell', 'flavour', 'palpate'}"
+laurenboebert,33,{'laurenboebert'}
+guard,32,"{'safety_device', 'sentry_duty', 'guard_duty', 'hold', 'safety', 'sentry_go', 'ward', 'safeguard', 'defend', 'precaution', 'guard'}"
+thanks,32,"{'thank', 'give_thanks', 'thanks'}"
+also,32,"{'also', 'besides', 'too', 'likewise', 'as_well'}"
+fuck,32,"{'bed', 'get_laid', 'make_out', 'nookie', 'sleep_with', 'piece_of_ass', 'have_a_go_at_it', 'fuck', 'roll_in_the_hay', 'know', 'have_it_away', 'lie_with', 'ass', 'screw', 'jazz', 'screwing', 'piece_of_tail', 'bang', 'nooky', 'sleep_together', 'do_it', 'get_it_on', 'shtup', 'have_intercourse', 'fucking', 'make_love', 'have_it_off', 'eff', 'shag', 'love', 'bonk', 'be_intimate', 'have_sex', 'hump'}"
+someone,31,"{'person', 'somebody', 'individual', 'mortal', 'someone', 'soul'}"
+best,31,"{'secure', 'scoop', 'unspoilt', 'honorable', 'skillful', 'considerably', 'salutary', 'upright', 'practiced', 'dear', 'Best', 'better', 'skilful', 'in_effect', 'beneficial', 'substantially', 'honest', 'undecomposed', 'unspoiled', 'proficient', 'sound', 'dependable', 'advantageously', 'outflank', 'expert', 'estimable', 'topper', 'near', 'safe', 'best', 'well', 'Charles_Herbert_Best', 'C._H._Best', 'full', 'just', 'serious', 'trump', 'easily', 'in_force', 'good', 'ripe', 'outdo', 'adept', 'comfortably', 'intimately', 'respectable', 'effective', 'right'}"
+find,31,"{'come_up', 'encounter', 'recover', 'discovery', 'find', 'feel', 'get', 'chance', 'line_up', 'determine', 'incur', 'get_hold', 'discover', 'notice', 'witness', 'rule', 'ascertain', 'breakthrough', 'uncovering', 'regain', 'see', 'bump', 'find_out', 'observe', 'retrieve', 'detect', 'obtain', 'receive', 'happen', 'find_oneself'}"
+mean,31,"{'miserly', 'meanspirited', 'hateful', 'beggarly', 'tight', 'signify', 'average', 'mingy', 'base', 'imply', 'have_in_mind', 'mean', 'think', 'entail', 'think_of', 'intend', 'mean_value', 'stand_for', 'bastardly'}"
+month,31,"{'calendar_month', 'month'}"
+hard,31,"{'arduous', 'backbreaking', 'surd', 'gruelling', 'severely', 'heavily', 'difficult', 'strong', 'unvoiced', 'knockout', 'laborious', 'punishing', 'tough', 'grueling', 'firmly', 'hard', 'toilsome', 'concentrated', 'severe', 'voiceless', 'intemperate', 'intemperately', 'heavy', 'operose'}"
+real,31,"{'tangible', 'very', 'really', 'real', 'rattling', 'literal', 'real_number', 'veridical', 'substantial', 'genuine', 'existent', 'actual', 'material'}"
+full,31,"{'broad', 'wax', 'fully', 'full', 'good', 'wide', 'replete', 'total', 'entire', 'full_phase_of_the_moon', 'full_moon', 'wide-cut', 'full-of-the-moon', 'to_the_full'}"
+pelosi,31,{'pelosi'}
+long,30,"{'tenacious', 'longsighted', 'prospicient', 'recollective', 'retentive', 'foresightful', 'yearn', 'foresighted', 'hanker', 'farseeing', 'farsighted', 'long'}"
+press,30,"{'crusade', 'bid', 'printing_press', 'entreat', 'urge_on', 'compress', 'compact', 'fight', 'beseech', 'adjure', 'conjure', 'insistency', 'insistence', 'pressure', 'contract', 'military_press', 'push', 'iron', 'iron_out', 'public_press', 'imperativeness', 'exhort', 'closet', 'wardrobe', 'pressing', 'crush', 'weigh', 'constrict', 'campaign', 'weight-lift', 'agitate', 'press_out', 'weightlift', 'press', 'squeeze', 'jam', 'urge', 'mechanical_press'}"
+executive,30,"{'executive_director', 'executive', 'administrator'}"
+sure,30,"{'sure', 'sure_as_shooting', 'trusted', 'surely', 'for_certain', 'sure_enough', 'certainly', 'certain', 'indisputable', 'for_sure'}"
+youtube,30,{'youtube'}
+night,30,"{'Night', 'nighttime', 'dark', 'Nox', 'night'}"
+saying,30,"{'expression', 'order', 'suppose', 'pronounce', 'allege', 'enunciate', 'sound_out', 'tell', 'enounce', 'state', 'enjoin', 'locution', 'say', 'aver', 'read', 'articulate', 'saying'}"
+cybersecurity,30,{'cybersecurity'}
+leader,29,"{'leader', 'loss_leader', 'drawing_card'}"
+voter,29,"{'elector', 'voter'}"
+person,29,"{'person', 'somebody', 'individual', 'mortal', 'someone', 'soul'}"
+child,29,"{'nipper', 'youngster', 'tiddler', 'child', 'kid', 'fry', 'small_fry', 'nestling', 'tike', 'shaver', 'minor', 'tyke', 'baby'}"
+unity,28,"{'oneness', 'I', 'single', 'wholeness', 'unity', 'one', 'ace', '1', 'integrity'}"
+something,28,{'something'}
+next,28,"{'next', 'side_by_side', 'adjacent', 'following', 'succeeding', 'future'}"
+stand,28,"{'tie-up', 'stick_out', 'fend', 'viewpoint', 'pedestal', 'suffer', 'bear', 'bandstand', 'stand_up', 'stall', 'sales_booth', 'stomach', 'digest', 'abide', 'standpoint', 'outdoor_stage', 'point_of_view', 'brook', 'base', 'stand', 'remain_firm', 'tolerate', 'support', 'endure', 'resist', 'rack', 'standstill', 'place_upright', 'put_up'}"
+away,28,"{'aside', 'out', 'off', 'away', 'forth', 'by', 'outside'}"
+congress,28,"{'sexual_relation', 'Congress', 'U.S._Congress', 'sexual_congress', 'US_Congress', 'congress', 'intercourse', 'coition', 'sexual_intercourse', 'relation', 'carnal_knowledge', 'United_States_Congress', 'coitus', 'copulation', 'sex_act'}"
+coming,28,"{'do', 'make_out', 'come_up', 'follow', 'approaching', 'get', 'get_along', 'upcoming', 'approach', 'descend', 'number', 'amount', 'total', 'arrive', 'fall', 'fare', 'orgasm', 'come', 'hail', 'forthcoming', 'derive', 'come_in', 'climax', 'advent', 'issue_forth', 'occur', 'coming', 'sexual_climax', 'add_up'}"
+antifa,28,{'antifa'}
+administration,28,"{'administration', 'organization', 'presidential_term', 'government', 'disposal', 'presidency', 'government_activity', 'governing_body', 'judicature', 'giving_medication', 'organisation', 'brass', 'governance', 'establishment', 'governing'}"
+member,28,"{'penis', 'extremity', 'member', 'fellow_member', 'phallus', 'appendage'}"
+inauguration,28,"{'inaugural', 'startup', 'inauguration'}"
+russia,28,"{'Russian_Soviet_Federated_Socialist_Republic', 'Russian_Federation', 'Russia', 'Soviet_Russia', 'USSR', 'Soviet_Union', 'Union_of_Soviet_Socialist_Republics', 'russia'}"
+music,28,"{'medicine', 'music', 'euphony'}"
+money,27,{'money'}
+made,27,"{'do', 'construct', 'produce', 'pass_water', 'earn', 'crap', 'lay_down', 'pee-pee', 'draw', 'name', 'get', 'throw', 'spend_a_penny', 'wee-wee', 'score', 'clear', 'stimulate', 'fix', 'give', 'take_a_leak', 'have', 'cause', 'take_in', 'reach', 'hit', 'defecate', 'made', 'puddle', 'make_up', 'piss', 'work', 'ready', 'make', 'constitute', 'hold', 'pull_in', 'create', 'progress_to', 'attain', 'take', 'cook', 'prepare', 'induce', 'wee', 'gain', 'realise', 'pretend', 'establish', 'stool', 'build', 'micturate', 'arrive_at', 'take_a_crap', 'form', 'ca-ca', 'shit', 'realize', 'seduce', 'pee', 'make_believe', 'piddle', 'urinate', 'get_to', 'take_a_shit', 'nominate', 'make_water', 'relieve_oneself', 'bring_in'}"
+power,27,"{'king', 'powerfulness', 'superpower', 'power', 'magnate', 'top_executive', 'force', 'tycoon', 'office', 'world_power', 'might', 'business_leader', 'ability', 'exponent', 'mogul', 'great_power', 'major_power', 'index', 'mightiness', 'baron', 'big_businessman'}"
+tell,27,"{'order', 'recount', 'William_Tell', 'secernate', 'Tell', 'severalise', 'severalize', 'separate', 'say', 'assure', 'evidence', 'tell_apart', 'tell', 'state', 'distinguish', 'narrate', 'enjoin', 'differentiate', 'recite', 'secern'}"
+point,27,"{'power_point', 'gunpoint', 'breaker_point', 'orient', 'signal', 'dot', 'spot', 'guide', 'taper', 'aim', 'period', 'channelise', 'manoeuver', 'head', 'percentage_point', 'indicate', 'designate', 'point_in_time', 'manoeuvre', 'direct', 'level', 'luff', 'steer', 'tip', 'pointedness', 'bespeak', 'decimal_point', 'betoken', 'compass_point', 'detail', 'distributor_point', 'peak', 'full_point', 'show', 'channelize', 'charge', 'full_stop', 'target', 'sharpen', 'repoint', 'degree', 'stage', 'maneuver', 'item', 'place', 'point', 'stop'}"
+bill,27,"{'card', 'vizor', 'Federal_Reserve_note', 'beak', 'handbill', 'invoice', 'broadsheet', 'measure', 'flyer', 'eyeshade', 'bill', 'throwaway', ""banker's_bill"", 'account', 'banknote', 'visor', 'notice', 'greenback', 'nib', 'bank_note', 'poster', 'billhook', 'bank_bill', 'posting', 'peak', 'charge', 'placard', 'neb', 'circular', 'note', 'government_note', 'broadside', 'pecker', 'flier'}"
+amazon,27,"{'amazon', 'virago', 'Amazon', 'Amazon_River'}"
+making,27,"{'making', 'do', 'construct', 'produce', 'pass_water', 'earn', 'crap', 'lay_down', 'pee-pee', 'draw', 'name', 'get', 'throw', 'spend_a_penny', 'wee-wee', 'score', 'clear', 'stimulate', 'fix', 'give', 'take_a_leak', 'have', 'cause', 'take_in', 'reach', 'hit', 'defecate', 'puddle', 'make_up', 'piss', 'qualification', 'work', 'ready', 'make', 'constitute', 'hold', 'pull_in', 'create', 'progress_to', 'attain', 'fashioning', 'take', 'cook', 'prepare', 'induce', 'devising', 'wee', 'gain', 'realise', 'pretend', 'establish', 'stool', 'build', 'micturate', 'arrive_at', 'take_a_crap', 'form', 'ca-ca', 'shit', 'realize', 'seduce', 'pee', 'make_believe', 'piddle', 'urinate', 'get_to', 'take_a_shit', 'nominate', 'make_water', 'relieve_oneself', 'bring_in'}"
+detail,27,"{'item', 'contingent', 'particular', 'detail', 'point'}"
+unfollowers,27,{'unfollowers'}
+iheartawards,27,{'iheartawards'}
+read,26,"{'register', 'scan', 'understand', 'take', 'translate', 'record', 'interpret', 'say', 'read', 'study', 'show', 'learn'}"
+getting,26,"{'capture', 'puzzle', 'let', 'vex', 'set_out', 'acquire', 'produce', 'gravel', 'suffer', 'commence', 'find', 'bring', 'scram', 'draw', 'generate', 'get', 'catch', 'flummox', 'mystify', 'beget', 'fix', 'stimulate', 'go', 'aim', 'father', 'have', 'bewilder', 'cause', 'engender', 'become', 'incur', 'stick', 'getting', 'arrive', 'stupefy', 'start_out', 'sustain', 'start', 'make', 'come', 'contract', 'take', 'buzz_off', 'develop', 'beat', 'convey', 'induce', 'grow', 'mother', 'pay_off', 'fuck_off', 'fetch', 'experience', 'drive', 'arrest', 'amaze', 'perplex', 'get_down', 'sire', 'baffle', 'set_about', 'pose', 'nonplus', 'dumbfound', 'acquiring', 'bugger_off', 'bring_forth', 'obtain', 'receive', 'begin', ""get_under_one's_skin"", 'pay_back'}"
+question,26,"{'wonder', 'interrogation', 'doubt', 'question', 'dubiousness', 'oppugn', 'head', 'motion', 'query', 'interrogate', 'interview', 'interrogative_sentence', 'interrogative', 'doubtfulness', 'enquiry', 'inquiry', 'call_into_question'}"
+federal,26,"{'federal_official', 'Federal_soldier', 'Fed', 'Union', 'Union_soldier', 'federal', 'Federal'}"
+nation,26,"{'land', 'Carry_Amelia_Moore_Nation', 'state', 'commonwealth', 'body_politic', 'Nation', 'nation', 'Carry_Nation', 'res_publica', 'country'}"
+history,26,"{'story', 'chronicle', 'account', 'history'}"
+washington,26,"{'Capital', 'capital_of_the_United_States', 'Booker_Taliaferro_Washington', 'George_Washington', 'Washington', 'Booker_T._Washington', 'Washington_D.C.', 'WA', 'American_capital', 'Evergreen_State', 'President_Washington', 'washington'}"
+2020,26,{'2020'}
+chuckcallesto,26,{'chuckcallesto'}
+oann,26,{'oann'}
+bestcoversong,26,{'bestcoversong'}
+hotel,25,{'hotel'}
+truth,25,"{'Sojourner_Truth', 'accuracy', 'Truth', 'verity', 'the_true', 'true_statement', 'truth', 'trueness'}"
+another,25,"{'another', 'some_other'}"
+always,25,"{'ever', 'invariably', 'incessantly', ""e'er"", 'always', 'perpetually', 'forever', 'constantly'}"
+post,25,"{'station', 'Emily_Post', 'send', 'postal_service', 'mail', 'mail_service', 'carry', 'spot', 'position', 'post', 'Charles_William_Post', 'brand', 'office', 'stake', 'situation', 'C._W._Post', 'military_post', 'billet', 'Post', 'Emily_Price_Post', 'berth', 'Wiley_Post', 'place', 'put_up'}"
+vaccine,24,"{'vaccinum', 'vaccine'}"
+black,24,"{'blacken', 'calamitous', 'melanize', 'blackness', 'smutty', 'black', 'total_darkness', 'dim', 'lightlessness', 'fateful', 'disastrous', 'grim', 'inglorious', 'Joseph_Black', 'mordant', 'nigrify', 'bleak', 'pitch-dark', 'Black_person', 'blackened', 'Black', 'pitch-black', 'Negroid', 'blackamoor', 'sinister', 'disgraceful', 'ignominious', 'smuggled', 'Shirley_Temple_Black', 'Negro', 'Shirley_Temple', 'black-market', 'dark', 'shameful', 'inkiness', 'fatal', 'pitch_blackness', 'melanise', 'bootleg', 'contraband', 'opprobrious'}"
+instead,24,"{'or_else', 'rather', 'alternatively', 'instead'}"
+sent,24,"{'station', 'beam', 'sent', 'send', 'transmit', 'mail', 'transport', 'broadcast', 'institutionalize', 'post', 'institutionalise', 'direct', 'commit', 'send_off', 'send_out', 'charge', 'air', 'get_off', 'ship', 'place'}"
+retweet,24,{'retweet'}
+united,24,"{'joined', 'unite', 'join', 'combine', 'link_up', 'connect', 'merge', 'link', 'unify', 'united'}"
+part,24,"{'depart', 'persona', 'split_up', 'contribution', 'parting', 'set_out', 'character', 'voice', 'set_forth', 'component', 'take_off', 'constituent', 'division', 'office', 'set_off', 'region', 'break', 'break_up', 'start', 'separate', 'split', 'share', 'disunite', 'component_part', 'role', 'function', 'portion', 'part', 'section', 'partly', 'theatrical_role', 'divide', 'partially', 'piece', 'percentage', 'start_out'}"
+pandemic,24,{'pandemic'}
+mammaraffy,24,{'mammaraffy'}
+maybe,23,"{'mayhap', 'perchance', 'peradventure', 'perhaps', 'possibly', 'maybe'}"
+since,23,{'since'}
+protect,23,{'protect'}
+matter,23,"{'affair', 'weigh', 'thing', 'issue', 'count', 'subject', 'topic', 'matter'}"
+attack,23,"{'assault', 'plan_of_attack', 'tone-beginning', 'flack', 'round', 'aggress', 'approach', 'snipe', 'onrush', 'attack', 'onslaught', 'fire', 'flak', 'attempt', 'assail', 'blast', 'set_on', 'lash_out', 'onset'}"
+2019,23,{'2019'}
+mitch,23,{'mitch'}
+home,23,"{'abode', 'domicile', 'interior', 'dwelling', 'menage', 'home', 'internal', 'dwelling_house', 'home_plate', 'rest_home', 'house', 'habitation', 'base', 'family', 'nursing_home', 'national', 'plate', 'household', 'home_base', 'place'}"
+mail,23,"{'post', 'send', 'chain_armor', 'get_off', 'chain_mail', 'postal_service', 'mail', 'mail_service', 'chain_armour', 'ring_armor', 'ring_mail', 'ring_armour'}"
+michaeljohns,23,{'michaeljohns'}
+gave,23,"{'gift', 'give_way', 'open', 'pay', 'generate', 'sacrifice', 'render', 'chip_in', 'throw', 'afford', 'leave', 'present', 'give', 'impart', 'have', 'founder', 'reach', 'commit', 'break', 'pass_on', 'consecrate', 'make', 'hold', 'feed', 'turn_over', 'ease_up', 'return', 'pass', 'dedicate', 'gave', 'establish', 'grant', 'cave_in', 'devote', 'apply', 'move_over', 'hand', 'collapse', 'contribute', 'yield', 'kick_in', 'fall_in'}"
+issue,23,"{'consequence', 'effect', 'make_out', 'way_out', 'write_out', 'emerge', 'egress', 'supply', 'topic', 'release', 'go_forth', 'outcome', 'payoff', 'come_out', 'issue', 'issuing', 'number', 'progeny', 'put_out', 'come_forth', 'exit', 'take', 'issuance', 'military_issue', 'result', 'return', 'subject', 'emergence', 'event', 'bring_out', 'matter', 'proceeds', 'cut', 'upshot', 'publish', 'publication', 'takings', 'offspring', 'outlet', 'yield', 'government_issue'}"
+little,23,"{'slight', 'small', 'petty', 'little', 'short', 'picayune', 'trivial', 'piffling', 'niggling', 'lilliputian', 'minuscule', 'footling', 'fiddling', 'piddling'}"
+around,22,"{'or_so', 'around', 'close_to', 'more_or_less', 'about', 'just_about', 'some', 'roughly', 'approximately', 'round'}"
+working,22,"{'ferment', 'put_to_work', 'forge', 'operative', 'crop', 'work_on', 'bring', 'functional', 'cultivate', 'mold', 'knead', 'act', 'run', 'go', 'act_upon', 'turn', 'running', 'workings', 'do_work', 'on_the_job', 'figure_out', 'work', 'puzzle_out', 'exploit', 'play', 'make', 'lick', 'mould', 'solve', 'exercise', 'function', 'process', 'form', 'operate', 'influence', 'sour', 'work_out', 'wreak', 'shape', 'working', 'make_for'}"
+traitor,22,"{'treasonist', 'two-timer', 'double-crosser', 'traitor', 'betrayer', 'double-dealer'}"
+illegal,22,{'illegal'}
+release,22,"{'unloosen', 'loss', 'eject', 'passing', 'vent', 'free', 'liberation', 'resign', 'unloose', 'let_go_of', 'release', 'going', 'exhaust', 'spill', 'expiration', 'handout', 'loose', 'turn', 'expel', 'issue', 'put_out', 'acquittance', 'exit', 'button', 'relinquish', 'spillage', 'unblock', 'freeing', 'press_release', 'sack', 'unfreeze', 'waiver', 'let_go', 'dismission', 'tone_ending', 'bring_out', 'dismissal', 'departure', 'discharge', 'secrete', 'publish', 'give_up', 'outlet', 'firing', 'sacking', 'liberate'}"
+government,22,"{'government', 'administration', 'government_activity', 'political_science', 'politics', 'regime', 'governance', 'authorities', 'governing'}"
+worst,22,"{'spoiled', 'pip', 'sorry', 'unfit', 'whip', 'tough', 'unsound', 'risky', 'worst', 'mop_up', 'rack_up', 'forged', 'regretful', 'defective', 'spoilt', 'bad', 'speculative', 'high-risk', 'big', 'uncollectible'}"
+talk,22,"{'speak', 'babble_out', 'talk_of_the_town', 'tattle', 'spill_the_beans', 'spill', 'blab_out', 'mouth', 'let_the_cat_out_of_the_bag', 'sing', 'verbalise', 'lecture', 'verbalize', 'talk', 'blab', 'peach', 'babble', 'talking', 'utter', 'public_lecture'}"
+happy,22,"{'felicitous', 'glad', 'happy', 'well-chosen'}"
+true,22,"{'on-key', 'straight', 'true_up', 'dead_on_target', 'confessedly', 'true', 'lawful', 'admittedly', 'truthful', 'reliable', 'genuine', 'unfeigned', 'honest', 'rightful', 'dependable', 'avowedly'}"
+official,22,"{'official', 'prescribed', 'functionary'}"
+reality,22,"{'realism', 'world', 'realness', 'reality'}"
+occurred,22,"{'take_place', 'hap', 'come', 'go_on', 'occur', 'pass', 'fall_out', 'occurred', 'happen', 'come_about', 'pass_off'}"
+stay,22,"{'last_out', 'abide', 'stop', 'persist', 'stick', 'outride', 'remain', 'stoppage', 'quell', 'rest', 'stay', 'stick_around', 'bide', 'arrest', 'stay_put', 'hitch', 'halt', 'stay_on', 'appease', 'detain', 'check', 'ride_out', 'delay', 'continue'}"
+leave,22,"{'leave_of_absence', 'depart', 'allow_for', 'parting', 'go_out', 'farewell', 'leave_behind', 'bequeath', 'leave_alone', 'get_out', 'leave-taking', 'forget', 'go_forth', 'leave', 'entrust', 'give', 'impart', 'go_away', 'pull_up_stakes', 'pass_on', 'exit', 'result', 'lead', 'will', 'provide', 'allow'}"
+miss,22,"{'overlook', 'escape', 'young_lady', 'drop', 'girl', 'overleap', 'omit', 'leave_out', 'lack', 'young_woman', 'fille', 'misfire', 'lose', 'neglect', 'pretermit', 'Miss', 'miss', 'missy'}"
+jetzt,22,{'jetzt'}
+called,21,"{'send_for', 'bid', 'predict', 'hollo', 'phone', 'name', 'telephone', 'visit', 'ring', 'promise', 'prognosticate', 'foretell', 'address', 'forebode', 'yell', 'scream', 'anticipate', 'call', 'holler', 'shout', 'called', 'shout_out', 'call_in', 'call_off', 'cry', 'squall', 'call_up'}"
+policy,21,"{'insurance', 'insurance_policy', 'policy'}"
+realmattcouch,21,{'realmattcouch'}
+destroy,21,"{'destroy', 'ruin', 'destruct', 'put_down', 'demolish'}"
+without,21,{'without'}
+morning,21,"{'aurora', 'dayspring', 'sunrise', 'sunup', 'cockcrow', 'morning', 'good_morning', 'break_of_the_day', 'morn', 'morning_time', 'daybreak', 'break_of_day', 'first_light', 'dawning', 'forenoon', 'dawn'}"
+account,21,"{'chronicle', 'describe', 'accounting', 'invoice', 'explanation', 'bill', 'answer_for', 'report', 'calculate', 'account', 'history', 'business_relationship', 'account_statement', 'story', 'write_up', 'score', 'news_report'}"
+lord,21,"{'nobleman', 'master', 'Jehovah', 'Creator', 'Godhead', 'Lord', 'overlord', 'lord', 'Divine', 'noble', 'Maker', 'Almighty', 'God_Almighty'}"
+social,21,"{'social', 'mixer', 'sociable', 'societal'}"
+followed,21,"{'come_after', 'postdate', 'succeed', 'espouse', 'stick_to', 'follow', 'trace', 'travel_along', 'conform_to', 'followed', 'pursue', 'keep_abreast', 'play_along', 'abide_by', 'watch', 'survey', 'accompany', 'keep_up', 'come', 'watch_over', 'fall_out', 'stick_with', 'comply', 'adopt', 'observe', 'keep_an_eye_on', 'surveil', 'be', 'take_after'}"
+school,21,"{'schooltime', 'school_day', 'educate', 'shoal', 'schooling', 'school', 'schoolhouse', 'train', 'cultivate', 'civilise', 'civilize'}"
+join,21,"{'juncture', 'unite', 'get_together', 'junction', 'join', 'bring_together', 'articulation', 'joint', 'link_up', 'connect', 'link', 'union', 'conjoin', 'sum', 'fall_in'}"
+military,21,"{'war_machine', 'military_machine', 'armed_services', 'armed_forces', 'military'}"
+hell,21,"{'blaze', 'the_pits', 'Hades', 'hell_on_earth', 'snake_pit', 'sin', 'Hell', 'nether_region', 'underworld', 'Inferno', 'hellhole', 'hell', 'pit', 'inferno', 'netherworld', 'infernal_region', 'perdition', 'Scheol'}"
+texas,21,"{'texas', 'Lone-Star_State', 'TX', 'Texas'}"
+gonna,21,{'gonna'}
+earthquake,21,"{'temblor', 'seism', 'earthquake', 'quake'}"
+gained,20,"{'gained', 'make_headway', 'acquire', 'profit', 'earn', 'clear', 'benefit', 'reach', 'take_in', 'hit', 'win', 'gather', 'make', 'pull_in', 'attain', 'derive', 'put_on', 'get_ahead', 'gain', 'realise', 'pull_ahead', 'arrive_at', 'gain_ground', 'realize', 'advance', 'bring_in'}"
+racist,20,"{'racist', 'antiblack', 'racialist', 'anti-Semite'}"
+supporter,20,"{'garter', 'admirer', 'suspensor', 'friend', 'assistant', 'patron', 'protagonist', 'helper', 'jock', 'sponsor', 'supporter', 'help', 'jockstrap', 'booster', 'champion', 'athletic_supporter'}"
+company,20,"{""ship's_company"", 'caller', 'fellowship', 'company', 'companionship', 'troupe', 'companion', 'society', 'accompany', 'keep_company', 'party'}"
+union,20,"{'conglutination', 'brotherhood', 'coupling', 'unification', 'Union', 'matrimony', 'uniting', 'spousal_relationship', 'sexual_union', 'mating', 'jointure', 'trades_union', 'trade_union', 'pairing', 'wedlock', 'North', 'labor_union', 'marriage', 'join', 'Federal', 'union', 'conjugation', 'sum'}"
+former,20,"{'early', 'old', 'late', 'one-time', 'sometime', 'quondam', 'other', 'onetime', 'former', 'previous', 'erstwhile'}"
+used,20,"{'secondhand', 'habituate', 'expend', 'victimised', 'apply', 'utilize', 'utilise', 'put-upon', 'use', 'used', 'exploited', 'employ', 'ill-used', 'victimized', 'practice'}"
+asked,20,"{'take', 'call_for', 'postulate', 'enquire', 'inquire', 'demand', 'necessitate', 'need', 'ask', 'involve', 'require', 'asked', 'expect'}"
+trying,20,"{'taste', 'stress', 'render', 'test', 'try', 'hear', 'sample', 'nerve-racking', 'judge', 'adjudicate', 'prove', 'try_out', 'strain', 'seek', 'try_on', 'examine', 'trying', 'nerve-wracking', 'attempt', 'assay', 'essay', 'stressful'}"
+live,20,"{'last', 'lively', 'unrecorded', 'live', 'hold_up', 'resilient', 'exist', 'go', 'know', 'springy', 'bouncy', 'dwell', 'survive', 'subsist', 'populate', 'inhabit', 'endure', 'alive', 'experience', 'live_on', 'be', 'hot', 'hold_out'}"
+conservative,20,"{'materialistic', 'button-down', 'Conservative', 'buttoned-down', 'conservative', 'conservativist', 'cautious', 'bourgeois'}"
+talking,20,"{'speak', 'blab', 'sing', 'peach', 'babble', 'mouth', 'verbalise', 'babble_out', 'lecture', 'let_the_cat_out_of_the_bag', 'talking', 'verbalize', 'talk', 'utter', 'tattle', 'spill_the_beans', 'blab_out', 'spill'}"
+maga,20,{'maga'}
+building,20,"{'progress', 'make', 'establish', 'construct', 'edifice', 'construction', 'ramp_up', 'work_up', 'build_up', 'building', 'build'}"
+iammultiversal,20,{'iammultiversal'}
+stupid,20,"{'stupefied', 'pudden-head', 'stupid_person', 'unintelligent', 'dolt', 'pudding_head', 'stupe', 'stupid', 'dazed', 'dullard', 'stunned', 'pillock', 'poor_fish'}"
+agree,20,"{'match', 'harmonize', 'hold', 'correspond', 'harmonise', 'concur', 'consort', 'fit', 'check', 'accord', 'tally', 'fit_in', 'agree', 'concord', 'jibe', 'gibe'}"
+harris,20,"{'Zellig_Sabbatai_Harris', 'Benjamin_Harris', 'Frank_Harris', 'Bomber_Harris', 'Townsend_Harris', 'Sir_Arthur_Travers_Harris', 'Harris', 'harris', 'James_Thomas_Harris', 'Joel_Chandler_Harris', 'Joel_Harris', 'Zellig_Harris'}"
+speech,20,"{'language', 'speech', 'talking_to', ""actor's_line"", 'manner_of_speaking', 'lecture', 'spoken_communication', 'address', 'voice_communication', 'words', 'oral_communication', 'delivery', 'spoken_language', 'speech_communication'}"
+citizen,20,{'citizen'}
+signed,20,"{'signalise', 'contract', 'sign_on', 'signed', 'sign_up', 'gestural', 'ratify', 'subscribe', 'signal', 'sign-language', 'sign', 'signalize', 'bless'}"
+Berliner,20,{'Berliner'}
+magnitude,20,"{'magnitude', 'order_of_magnitude'}"
+truly,19,"{'really', 'genuinely', 'rightfully', 'in_truth', 'sincerely', 'unfeignedly', 'truly'}"
+campaign,19,"{'run', 'take_the_field', 'campaign', 'crusade', 'press', 'push', 'political_campaign', 'effort', 'cause', 'safari', 'fight', 'agitate', 'drive', 'hunting_expedition', 'movement', 'military_campaign'}"
+four,19,"{'Little_Joe', 'four', '4', 'quatern', 'quartet', 'quaternity', 'quadruplet', 'four-spot', 'iv', 'quaternary', 'quaternion', 'foursome', 'tetrad', 'IV'}"
+force,19,"{'ram', 'violence', 'forcefulness', 'effect', 'pull', 'military_unit', 'force_out', 'coerce', 'wedge', 'draw', 'power', 'impel', 'strength', 'force', 'force-out', 'hale', 'storm', 'personnel', 'military_force', 'force_play', 'pressure', 'push', 'military_group', 'thrust', 'drive', 'squeeze'}"
+politician,19,"{'politician', 'pol', 'political_leader', 'politico'}"
+anything,19,{'anything'}
+ryanafournier,19,{'ryanafournier'}
+arrested,19,"{'cop', 'hold', 'halt', 'catch', 'hold_back', 'nail', 'nab', 'turn_back', 'check', 'contain', 'pick_up', 'arrested', 'get', 'arrest', 'stop', 'collar', 'apprehend'}"
+fraud,19,"{'imposter', 'hoax', 'pseud', 'shammer', 'fake', 'sham', 'humbug', 'pretender', 'faker', 'dupery', 'put-on', 'impostor', 'fraudulence', 'role_player', 'fraud', 'pseudo'}"
+w_terrence,19,{'w_terrence'}
+else,19,{'else'}
+taking,19,"{'claim', 'accept', 'fetching', 'acquire', 'postulate', 'take_up', 'take_aim', 'occupy', 'subscribe', 'bring', 'subscribe_to', 'read', 'train', 'get', 'carry', 'guide', 'consider', 'submit', 'remove', 'aim', 'pickings', 'get_hold_of', 'hire', 'choose', 'have', 'take_in', 'contain', 'fill', 'assume', 'look_at', 'require', 'direct', 'select', 'study', 'learn', 'take', 'taking', 'make', 'deal', 'admit', 'pack', 'exact', 'hold', 'contract', 'strike', 'engage', 'convey', 'withdraw', 'consume', 'take_away', 'rent', 'demand', 'involve', 'drive', 'charter', 'ingest', 'lease', 'adopt', 'lead', 'call_for', 'conduct', 'take_on', 'winning', 'use_up', 'pick_out', 'necessitate', 'ask', 'need', 'shoot', 'film'}"
+nancy,19,"{'Nancy', 'nancy'}"
+lying,19,"{'lie', 'prevarication', 'consist', 'lie_down', 'lie_in', 'rest', 'dwell', 'fabrication', 'lying'}"
+watching,19,"{'look_on', 'follow', 'catch', 'determine', 'watch', 'take_in', 'watching', 'view', 'learn', 'observance', 'watch_over', 'ascertain', 'observation', 'see', 'find_out', 'observe', 'keep_an_eye_on', 'watch_out', 'look_out', 'check'}"
+place,19,"{'order', 'station', 'grade', 'set', 'rank', 'rate', 'site', 'send', 'plaza', 'home', 'stead', 'invest', 'spot', 'position', 'shoes', 'locate', 'aim', 'post', 'come_out', 'localize', 'office', 'localise', 'situation', 'billet', 'direct', 'commit', 'range', 'berth', 'come_in', 'property', 'space', 'put', 'lieu', 'seat', 'target', 'pose', 'topographic_point', 'lay', 'identify', 'blank_space', 'place', 'point', 'piazza'}"
+electroboyusa,19,{'electroboyusa'}
+gopleader,19,{'gopleader'}
+rosannaphillip,19,{'rosannaphillip'}
+freedom,19,"{'freedom', 'exemption'}"
+answer,19,"{'suffice', 'response', 'resolve', 'answer', 'do', 'solvent', 'result', 'respond', 'reply', 'solution', 'serve', 'resolution'}"
+soon,19,"{'before_long', 'soon', 'presently', 'shortly'}"
+valerio_scanu,19,{'valerio_scanu'}
+huge,18,"{'immense', 'Brobdingnagian', 'vast', 'huge'}"
+price,18,"{'Leontyne_Price', 'price', 'cost', 'damage', 'Mary_Leontyne_Price', 'terms', 'Price', 'monetary_value', 'toll'}"
+heart,18,"{'essence', 'kernel', 'heart_and_soul', 'gist', 'affection', 'centre', 'philia', 'center', 'spunk', 'core', 'eye', 'sum', 'nerve', 'middle', 'meat', 'nub', 'ticker', 'affectionateness', 'heart', 'pump', 'spirit', 'tenderness', 'nitty-gritty', 'warmness', 'warmheartedness', 'pith', 'inwardness', 'bosom', 'marrow', 'mettle', 'fondness', 'substance'}"
+understand,18,"{'understand', 'see', 'sympathise', 'translate', 'realize', 'empathize', 'interpret', 'read', 'realise', 'infer', 'sympathize', 'empathise'}"
+agent,18,"{'factor', 'broker', 'agent', 'agentive_role', 'federal_agent'}"
+domestic,18,"{'house_servant', 'domesticated', 'domestic_help', 'domestic'}"
+virus,18,"{'virus', 'computer_virus'}"
+head,18,"{'chief', 'head_word', 'header', 'mind', 'caput', 'head_up', 'headway', 'brain', 'headspring', 'top_dog', 'read/write_head', 'school_principal', 'drumhead', 'guide', 'forefront', 'principal', 'channelise', 'manoeuver', 'question', 'head_teacher', 'head', 'promontory', 'manoeuvre', 'direct', 'steer', 'fountainhead', 'pass', 'foreland', 'oral_sex', 'heading', 'channelize', 'headland', 'lead', 'capitulum', 'psyche', 'maneuver', 'point', 'straits', 'nous'}"
+cost,18,"{'price', 'cost', 'be', 'monetary_value', 'toll'}"
+tonight,18,"{'tonight', 'this_night', 'this_evening'}"
+schumer,18,{'schumer'}
+insurrection,18,"{'insurrection', 'uprising', 'revolt', 'rebellion', 'rising'}"
+obama,18,{'obama'}
+thousand,18,"{'thou', 'yard', 'chiliad', 'M', 'thousand', 'G', 'grand', '1000', 'K', 'k', 'one_thousand', 'm'}"
+idea,18,"{'estimation', 'theme', 'mind', 'melodic_theme', 'approximation', 'estimate', 'thought', 'musical_theme', 'idea'}"
+starting,18,"{'depart', 'set_out', 'take_up', 'originate', 'commence', 'bug_out', 'get', 'set_forth', 'bulge_out', 'go', 'come_out', 'set_off', 'protrude', 'pop_out', 'start_out', 'start_up', 'startle', 'start', 'pop', 'bulge', 'part', 'get_down', 'get_going', 'set_about', 'jump', 'lead_off', 'initiate', 'embark_on', 'begin', 'take_off', 'starting'}"
+group,18,"{'chemical_group', 'grouping', 'radical', 'mathematical_group', 'group', 'aggroup'}"
+care,18,"{'aid', 'precaution', 'tending', 'give_care', 'handle', 'upkeep', 'wish', 'deal', 'like', 'concern', 'manage', 'guardianship', 'charge', 'forethought', 'worry', 'tutelage', 'attention', 'care', 'fear', 'maintenance', 'caution'}"
+tedcruz,18,{'tedcruz'}
+fight,18,"{'fight_down', 'crusade', 'conflict', 'scrap', 'fight', 'contend', 'engagement', 'battle', 'push', 'combat', 'struggle', 'defend', 'fight_back', 'fighting', 'campaign', 'competitiveness', 'agitate', 'press', 'oppose'}"
+human,18,"{'human', 'homo', 'human_being', 'man'}"
+game,18,"{'back', 'secret_plan', 'lame', 'bet_on', 'mettlesome', 'game', 'biz', 'gage', 'stake', 'punt', 'halting', 'crippled', 'gritty', 'halt', 'gimpy', 'gamey', 'spirited', 'gamy', 'spunky', 'plot'}"
+january,18,"{'January', 'Jan', 'january'}"
+threat,18,"{'scourge', 'terror', 'threat', 'menace'}"
+peatches66,18,{'peatches66'}
+valerio,18,{'valerio'}
+scanu,18,{'scanu'}
+tha5sosvote,18,{'tha5sosvote'}
+dancingwithastranger,18,{'dancingwithastranger'}
+violence,17,"{'ferocity', 'violence', 'force', 'fury', 'wildness', 'fierceness', 'vehemence', 'furiousness'}"
+article,17,"{'clause', 'article'}"
+open,17,"{'out-of-doors', 'open', 'undefendable', 'open_air', 'capable', 'surface', 'candid', 'open_up', 'afford', 'loose', 'clear', 'give', 'outdoors', 'spread_out', 'exposed', 'undetermined', 'opened', 'unresolved', 'unfold', 'subject', 'receptive', 'heart-to-heart', 'undefended', 'overt', 'assailable', 'spread', 'undecided', 'unfastened'}"
+killed,17,"{'drink_down', 'stamp_out', 'pour_down', 'vote_down', 'wipe_out', 'shoot_down', 'pop', 'kill', 'vote_out', 'down', 'killed', 'obliterate', 'toss_off', 'defeat', 'bolt_down', 'belt_down'}"
+everything,17,{'everything'}
+insulin,17,{'insulin'}
+kk131066,17,{'kk131066'}
+trust,17,"{'corporate_trust', 'trustfulness', 'combine', 'rely', 'desire', 'confide', 'entrust', 'hope', 'swear', 'intrust', 'cartel', 'commit', 'reliance', 'bank', 'confidence', 'believe', 'faith', 'trust', 'trustingness'}"
+different,17,"{'unlike', 'different', 'dissimilar'}"
+fact,17,{'fact'}
+john,17,"{'lavatory', 'Saint_John_the_Apostle', 'whoremonger', 'John_Lackland', 'toilet', 'St._John', 'privy', 'lav', 'Saint_John', 'john', 'bathroom', 'John_the_Evangelist', 'trick', 'whoremaster', 'King_John', 'John', 'can', 'Gospel_According_to_John', 'John_the_Divine', 'St._John_the_Apostle'}"
+important,17,"{'authoritative', 'significant', 'of_import', 'crucial', 'important'}"
+high,17,"{'high_gear', 'high', 'high_school', 'mellow', 'high-pitched', 'senior_high_school', 'gamey', 'eminent', 'in_high_spirits', 'luxuriously', 'richly', 'highschool', 'gamy', 'high_up', 'heights', 'senior_high'}"
+fake,17,"{'phoney', 'forge', 'pretender', 'faker', 'misrepresent', 'bull', 'falsify', 'pseud', 'bogus', 'impostor', 'wangle', 'simulated', 'pseudo', ""talk_through_one's_hat"", 'faux', 'bullshit', 'cook', 'sham', 'fudge', 'juke', 'fraud', 'imposter', 'phony', 'counterfeit', 'postiche', 'bastard', 'fake', 'manipulate', 'role_player', 'false', 'shammer', 'imitation'}"
+wait,17,"{'wait', 'await', 'hold_off', 'hold', 'waitress', 'hold_back', 'time_lag', 'expect', 'postponement', 'look', 'delay', 'waiting'}"
+light,17,"{'short', 'light-headed', 'sparkle', 'swooning', 'low-cal', 'Inner_Light', 'igniter', 'brightness_level', 'weak', 'visible_light', 'tripping', 'twinkle', 'clear', 'loose', 'luminousness', 'illumination', 'wanton', 'unclouded', 'ignite', 'fire_up', 'light', 'fall', 'visible_radiation', 'lighting', 'lightly', 'spark', 'illume', 'lightness', 'brightness', 'perch', 'easy', 'faint', 'illumine', 'Christ_Within', 'scant', 'luminosity', 'unhorse', 'ignitor', 'dismount', 'abstemious', 'light_up', 'idle', 'Light_Within', 'light_source', 'get_down', 'lighter', 'clean', 'lightheaded', 'calorie-free', 'lightsome', 'sluttish', 'luminance', 'wakeful', 'get_off', 'Light', 'alight', 'unaccented', 'lite', 'illuminate', 'promiscuous', 'light-colored'}"
+list,17,"{'leaning', 'list', 'number', 'lean', 'name', 'tilt', 'listing', 'heel', 'inclination'}"
+jesus,17,"{'Deliverer', 'Jesus_of_Nazareth', 'Redeemer', 'Savior', 'Saviour', 'jesus', 'Jesus_Christ', 'Jesus', 'the_Nazarene', 'Good_Shepherd', 'Christ'}"
+funny,17,"{'suspect', 'curious', 'peculiar', 'rum', 'risible', 'comic', 'suspicious', 'laughable', 'queer', 'mirthful', 'rummy', 'good_story', 'fishy', 'funny_story', 'shady', 'odd', 'comical', 'funny_remark', 'amusing', 'singular', 'funny'}"
+small,17,"{'lowly', 'modest', 'small', 'little', 'small-scale', 'low', 'belittled', 'pocket-sized', 'diminished', 'humble', 'minuscule', 'pocket-size', 'minor'}"
+kamalaharris,17,{'kamalaharris'}
+college,17,{'college'}
+expert,17,"{'expert', 'skilful', 'good', 'technical', 'adept', 'skillful', 'proficient', 'practiced'}"
+hatinhate,17,{'hatinhate'}
+debjarvis4,17,{'debjarvis4'}
+brendabalazs,17,{'brendabalazs'}
+jodispissed8645,17,{'jodispissed8645'}
+97juv6a7d8,17,{'97juv6a7d8'}
+harry_styles,17,{'harry_styles'}
+secret,16,"{'mystical', 'arcanum', 'secret', 'private', 'hugger-mugger', 'secluded', 'privy', 'mystery', 'orphic', 'cloak-and-dagger', 'mystic', 'confidential', 'hush-hush', 'mysterious', 'hole-and-corner', 'occult', 'surreptitious', 'unavowed', 'underground', 'enigma', 'closed_book', 'undercover', 'hidden', 'clandestine'}"
+latest,16,"{'in_vogue', 'modish', 'in_style', 'a_la_mode', 'later', 'up-to-the-minute', 'late', 'tardy', 'recent', 'belated', 'latest', 'former', 'previous'}"
+totally,16,"{'completely', 'wholly', 'all', 'entirely', 'totally', 'altogether', 'whole'}"
+double,16,"{'double_over', 'repeat', 'two-bagger', 'twice', 'look-alike', 'duple', 'image', 'bivalent', 'dual', 'threefold', 'two-fold', 'three-fold', 'reduplicate', 'replicate', 'twofold', 'treble', 'stunt_man', 'doubly', 'stunt_woman', 'doubled', 'two-baser', 'two-base_hit', 'duplicate', 'double', 'double_up', 'doubling', 'forked'}"
+sound,16,"{'speech_sound', 'fathom', 'audio', 'voice', 'profound', 'phone', 'legal', 'intelligent', 'well-grounded', 'go', 'levelheaded', 'vocalise', 'auditory_sensation', 'effectual', 'reasoned', 'sound', 'wakeless', 'healthy', 'good', 'strait', 'level-headed', 'vocalize', 'heavy'}"
+problem,16,"{'problem', 'job', 'trouble'}"
+including,16,"{'include', 'including', 'let_in', 'admit'}"
+proud,16,"{'proud', 'lofty', 'majestic', 'gallant'}"
+self,16,"{'self', 'ego'}"
+seen,16,"{'go_out', 'encounter', 'get_word', 'find', 'visualise', 'catch', 'visit', 'take_care', 'understand', 'image', 'consider', 'hear', 'go_steady', 'see_to_it', 'get_wind', 'determine', 'watch', 'take_in', 'interpret', 'seen', 'pick_up', 'look', 'view', 'run_into', 'go_through', 'regard', 'learn', 'come_across', 'discover', 'witness', 'reckon', 'project', 'ascertain', 'escort', 'realise', 'experience', 'fancy', 'attend', 'examine', 'see', 'picture', 'find_out', 'meet', 'assure', 'date', 'run_across', 'realize', 'insure', 'visualize', 'check', 'get_a_line', 'control', 'construe', 'figure', 'ensure', 'envision'}"
+isaiah,16,"{'Book_of_Isaiah', 'isaiah', 'Isaiah'}"
+governor,16,"{'governor', 'regulator'}"
+peace,16,"{'pacification', 'peace_of_mind', 'public_security', 'repose', 'peace', 'heartsease', 'serenity', 'ataraxis', 'peace_treaty', 'peacefulness'}"
+realcandaceo,16,{'realcandaceo'}
+worker,16,"{'prole', 'doer', 'proletarian', 'actor', 'worker'}"
+though,16,{'though'}
+continues,16,"{'go_on', 'keep', 'uphold', 'proceed', 'cover', 'extend', 'bear_on', 'preserve', 'go_along', 'persist_in', 'go_forward', 'retain', 'remain', 'keep_on', 'stay', 'stay_on', 'carry_on', 'continues', 'continue'}"
+click,16,"{'chatter', 'flick', 'come_home', 'clink', 'clack', 'snap', 'cluck', 'sink_in', 'dog', 'click', 'get_across', 'suction_stop', 'dawn', 'pawl', 'chink', 'mouse_click', 'penetrate', 'get_through', 'fall_into_place', 'tick', 'detent'}"
+giving,16,"{'gift', 'give_way', 'open', 'pay', 'generate', 'sacrifice', 'render', 'giving', 'throw', 'chip_in', 'afford', 'freehanded', 'leave', 'present', 'give', 'handsome', 'impart', 'have', 'founder', 'reach', 'commit', 'break', 'pass_on', 'bounteous', 'consecrate', 'make', 'hold', 'feed', 'turn_over', 'ease_up', 'return', 'pass', 'dedicate', 'liberal', 'establish', 'grant', 'big', 'openhanded', 'cave_in', 'devote', 'apply', 'move_over', 'hand', 'bighearted', 'collapse', 'contribute', 'yield', 'kick_in', 'bountiful', 'fall_in'}"
+turn,16,"{'ferment', 'bout', 'crook', 'routine', 'round', 'release', 'act', 'go', 'reverse', 'turn', 'spell', 'plough', 'become', 'number', 'sprain', 'twist', 'tour', 'wrick', 'work', 'play', 'bit', 'turn_over', 'rick', 'grow', 'wrench', 'deform', 'turn_of_events', 'bend', 'move_around', 'call_on', 'flex', 'sour', 'change_state', 'change_by_reversal', 'plow', 'good_turn', 'turning'}"
+garage,16,"{'service_department', 'garage'}"
+actually,16,"{'in_reality', 'actually', 'really'}"
+unfollowed,16,{'unfollowed'}
+atrumpest,16,{'atrumpest'}
+PROMPT,16,"{'quick', 'instigate', 'prompt', 'remind', 'prompting', 'immediate', 'cue', 'straightaway', 'PROMPT', 'move', 'inspire', 'actuate', 'incite', 'propel', 'motivate', 'command_prompt'}"
+norberta36,16,{'norberta36'}
+stray_kids,16,{'stray_kids'}
+xchangewiser,16,{'xchangewiser'}
+justice,15,"{'judge', 'DoJ', 'Department_of_Justice', 'justice', 'Justice', 'Justice_Department', 'justness', 'jurist'}"
+health,15,"{'health', 'wellness'}"
+share,15,"{'share', 'contribution', 'apportion', 'deal', 'portion_out', 'portion', 'partake_in', 'divvy_up', 'plowshare', 'partake', 'ploughshare', 'percentage', 'part', 'parcel'}"
+foreign,15,"{'alien', 'strange', 'foreign', 'extraneous'}"
+sport,15,"{'frolic', 'sportsman', 'mutant', 'lark', 'variation', 'feature', 'gambol', 'lark_about', 'sport', 'athletics', 'frisk', 'romp', 'play', 'run_around', 'summercater', 'rollick', 'disport', 'sportswoman', 'skylark', 'fun', 'cavort', 'mutation', 'boast'}"
+claim,15,"{'claim', 'take', 'lay_claim', 'title', 'arrogate', 'exact', 'call'}"
+christian,15,"{'Christian', 'christian'}"
+economy,15,"{'saving', 'economic_system', 'economy', 'thriftiness'}"
+dems,15,{'dems'}
+moment,15,"{'bit', 'consequence', 'import', 'second', 'here_and_now', 'minute', 'mo', 'instant', 'moment', 'present_moment'}"
+whole,15,"{'solid', 'totally', 'unharmed', 'completely', 'hale', 'wholly', 'all', 'unanimous', 'entirely', 'unscathed', 'unhurt', 'altogether', 'unit', 'whole'}"
+change,15,"{'commute', 'shift', 'transfer', 'vary', 'alter', 'interchange', 'alteration', 'change', 'exchange', 'switch', 'variety', 'convert', 'deepen', 'modify', 'modification'}"
+bless,15,"{'sanctify', 'hallow', 'sign', 'bless', 'consecrate'}"
+single,15,"{'I', 'single', 'exclusive', 'bingle', 'individual', 'one', 'unity', 'undivided', 'ace', '1', 'unmarried'}"
+ecomemory1,15,{'ecomemory1'}
+shall,15,{'shall'}
+continue,15,"{'retain', 'stay_on', 'go_on', 'keep', 'carry_on', 'remain', 'extend', 'bear_on', 'preserve', 'keep_on', 'go_along', 'proceed', 'uphold', 'stay', 'cover', 'persist_in', 'go_forward', 'continue'}"
+deal,15,"{'dispense', 'great_deal', 'parcel_out', 'trade', 'business_deal', 'make_out', 'raft', 'mass', 'passel', 'heap', 'cover', 'cope', 'mountain', 'deal_out', 'shell_out', 'sell', 'consider', 'allot', 'administer', 'hatful', 'quite_a_little', 'pile', 'lot', 'spate', 'contend', 'grapple', 'dole_out', 'address', 'divvy_up', 'look_at', 'handle', 'dish_out', 'apportion', 'slew', 'take', 'softwood', 'batch', 'deal', 'mint', 'distribute', 'share', 'flock', 'sight', 'bargain', 'plenty', 'tidy_sum', 'manage', 'portion_out', 'carry_on', 'conduct', 'mess', 'mickle', 'stack', 'hand', 'get_by', 'wad', 'pot', 'make_do', 'peck', 'plow', 'good_deal', 'care', 'mete_out', 'treat', 'muckle'}"
+direction,15,"{'steering', 'charge', 'focal_point', 'direction', 'counsel', 'focussing', 'centering', 'commission', 'management', 'way', 'focus', 'counseling', 'focusing', 'guidance', 'instruction', 'counselling'}"
+action,15,"{'activeness', 'action_at_law', 'litigate', 'military_action', 'activity', 'carry_out', 'natural_process', 'action_mechanism', 'accomplish', 'execute', 'action', 'carry_through', 'fulfill', 'sue', 'natural_action', 'legal_action', 'fulfil', 'process'}"
+episode,15,"{'episode', 'instalment', 'installment', 'sequence'}"
+shit,15,"{'SOB', 'diddly-shit', 'dirt', 'dickhead', 'rat', 'crap', 'grass', 'asshole', 'cocksucker', 'diddly', 'bull', 'shucks', 'diddly-squat', 'mother_fucker', 'whoreson', 'betray', 'shop', 'jack', 'snitch', 'hoot', 'diddlysquat', 'defecate', 'motherfucker', 'squat', 'give_away', 'shite', 'make', 'bullshit', 'poop', 'darn', 'denounce', 'turd', 'prick', 'damn', 'son_of_a_bitch', 'red_cent', 'stool', 'Irish_bull', ""tinker's_damn"", 'take_a_crap', 'diddley', 'tell_on', 'ca-ca', 'shit', 'diddlyshit', 'horseshit', 'bastard', 'stag', 'dogshit', ""tinker's_dam"", 'dump', 'take_a_shit', 'doodly-squat'}"
+team,15,"{'team_up', 'team', 'squad'}"
+past,15,"{'past_tense', 'past', 'preceding', 'retiring', 'by', 'yesteryear', 'past_times'}"
+apple,15,"{'apple', 'Malus_pumila', 'orchard_apple_tree'}"
+fire,15,"{'flame', 'fervency', 'send_away', 'provoke', 'force_out', 'go_off', 'flack', 'elicit', 'fervor', 'give_the_axe', 'burn', 'terminate', 'fervidness', 'displace', 'raise', 'dismiss', 'fuel', 'fervour', 'flaming', 'arouse', 'ardor', 'ardour', 'sack', 'evoke', 'can', 'give_the_sack', 'open_fire', 'attack', 'flak', 'fire', 'discharge', 'blast', 'enkindle', 'firing', 'give_notice', 'kindle', 'burn_down'}"
+sign,15,"{'gestural', 'subscribe', 'mansion', 'signal', 'sign-language', 'star_sign', 'sign_up', 'preindication', 'foretoken', 'signaling', 'ratify', 'house', 'signalize', 'bless', 'signboard', 'signalise', 'contract', 'signed', 'sign_of_the_zodiac', 'mark', 'sign_on', 'augury', 'planetary_house', 'sign', 'polarity'}"
+hate,15,"{'hatred', 'detest', 'hate'}"
+flag,15,"{'flag', 'flagstone', 'ease_off', 'swag', 'ease_up', 'slacken_off', 'sword_lily', 'sag', 'iris', 'fleur-de-lis', 'signal_flag', 'masthead', 'pin', 'droop'}"
+advisor,15,"{'adviser', 'consultant', 'advisor'}"
+half,15,"{'half', 'one-half'}"
+christmas,15,"{'Yule', 'Yuletide', 'Xmas', 'Christmas', 'Christmastime', 'Christmastide', 'christmas', 'Noel', 'Christmas_Day', 'Dec_25'}"
+steveinmanuic,15,{'steveinmanuic'}
+reason,15,"{'intellect', 'conclude', 'argue', 'reason_out', 'ground', 'cause', 'understanding', 'reason', 'reasonableness', 'rationality', 'grounds'}"
+mind,15,"{'judgment', 'intellect', 'bear_in_mind', 'judgement', 'mind', 'thinker', 'psyche', 'head', 'brain', 'creative_thinker', 'listen', 'heed', 'idea', 'beware', 'nous', 'take_care'}"
+image,15,"{'persona', 'visualise', 'simulacrum', 'look-alike', 'epitome', 'ikon', 'image', 'mental_image', 'range', 'range_of_a_function', 'paradigm', 'trope', 'project', 'prototype', 'icon', 'effigy', 'fancy', 'picture', 'see', 'double', 'visualize', 'figure_of_speech', 'figure', 'envision'}"
+notice,15,"{'remark', 'card', 'find', 'bill', 'acknowledge', 'observance', 'notice', 'discover', 'poster', 'notification', 'point_out', 'comment', 'posting', 'observation', 'placard', 'observe', 'mark', 'detect', 'note'}"
+parler,15,{'parler'}
+monitored,15,"{'supervise', 'monitored', 'monitor'}"
+warning,15,"{'monition', 'admonitory', 'monish', 'admonition', 'exemplary', 'warn', 'monitory', 'cautionary', 'warning', 'admonish', 'discourage', 'word_of_advice'}"
+carlosFREEnow,15,{'carlosFREEnow'}
+stray,15,"{'tramp', 'rove', 'divagate', 'cast', 'ramble', 'isolated', 'swan', 'stray', 'vagabond', 'roll', 'roam', 'digress', 'drift', 'range', 'wander', 'err'}"
+straykids,15,{'straykids'}
+thegooddoctor,15,{'thegooddoctor'}
+shot,14,"{'burgeon_forth', 'sprout', 'shot', 'injection', 'dead_reckoning', 'snap', 'pip', 'crack', 'fritter', 'gibe', 'germinate', 'stab', 'changeable', 'dissipate', 'flash', 'blastoff', 'hit', 'barb', 'snapshot', 'slam', 'photograph', 'scud', 'dig', 'take', 'nip', 'shoot_down', 'pullulate', 'shooting', 'tear', 'dart', 'buck', 'pellet', 'bourgeon', 'fool', 'fool_away', 'shaft', 'scoot', 'spud', 'charge', 'fritter_away', 'chatoyant', 'guesswork', 'scene', 'guessing', 'shooter', 'dash', 'frivol_away', 'blast', 'stroke', 'shoot', 'inject', 'guess', 'jibe', 'film', 'iridescent'}"
+heard,14,"{'see', 'discover', 'find_out', 'try', 'hear', 'heard', 'get_wind', 'get_word', 'listen', 'pick_up', 'get_a_line', 'take_heed', 'learn'}"
+chinese,14,"{'chinese', 'Formosan', 'Taiwanese', 'Chinese'}"
+abortion,14,"{'abortion', 'miscarriage'}"
+ensure,14,"{'assure', 'see', 'secure', 'see_to_it', 'insure', 'ascertain', 'check', 'control', 'guarantee', 'ensure'}"
+city,14,"{'city', 'metropolis', 'urban_center'}"
+knew,14,"{'bed', 'get_laid', 'make_out', 'live', 'sleep_with', 'have_a_go_at_it', 'fuck', 'roll_in_the_hay', 'know', 'knew', 'have_it_away', 'lie_with', 'screw', 'jazz', 'recognise', 'cognize', 'bang', 'acknowledge', 'sleep_together', 'do_it', 'experience', 'cognise', 'get_it_on', 'recognize', 'have_intercourse', 'have_it_off', 'make_love', 'eff', 'love', 'bonk', 'be_intimate', 'have_sex', 'hump'}"
+cannot,14,{'cannot'}
+dangerous,14,"{'serious', 'grave', 'dangerous', 'life-threatening', 'severe', 'grievous', 'unsafe'}"
+crime,14,"{'offense', 'criminal_offence', 'offence', 'crime', 'law-breaking', 'criminal_offense'}"
+breitbartnews,14,{'breitbartnews'}
+beautiful,14,{'beautiful'}
+mike,14,"{'microphone', 'mike'}"
+bring,14,"{'play', 'take', 'bestow', 'land', 'fetch', 'impart', 'lend', 'convey', 'add', 'bring', 'contribute', 'institute', 'wreak', 'get', 'work', 'make_for', 'bring_in'}"
+liberal,14,"{'freehanded', 'loose', 'broad', 'tolerant', 'liberalist', 'bountiful', 'handsome', 'giving', 'openhanded', 'free', 'progressive', 'liberal', 'bighearted', 'large-minded', 'big', 'bounteous'}"
+thinking,14,"{'cogitate', 'cerebrate', 'intelligent', 'recollect', 'consider', 'suppose', 'reasoning', 'thinking', 'remember', 'mentation', 'intellection', 'cerebration', 'reckon', 'call_back', 'thought_process', 'mean', 'think', 'thought', 'believe', 'imagine', 'intend', 'call_up', 'opine', 'retrieve', 'recall', 'conceive', 'guess'}"
+missed,14,"{'overlook', 'escape', 'drop', 'overleap', 'omit', 'leave_out', 'missed', 'lose', 'pretermit', 'neglect', 'lost', 'miss', 'lack'}"
+future,14,"{'futurity', 'next', 'hereafter', 'time_to_come', 'succeeding', 'future_tense', 'future'}"
+riot,14,"{'debauch', 'bacchanal', 'drunken_revelry', 'carouse', 'orgy', 'scream', 'bacchanalia', 'public_violence', 'howler', 'riot', 'belly_laugh', 'sidesplitter', 'rioting', 'debauchery', 'roister', 'wow', 'saturnalia', 'thigh-slapper'}"
+trial,14,"{'run', 'trial_run', 'tryout', 'trial', 'tribulation', 'test', 'visitation'}"
+hear,14,"{'see', 'discover', 'find_out', 'try', 'hear', 'get_wind', 'get_word', 'listen', 'pick_up', 'get_a_line', 'take_heed', 'learn'}"
+guess,14,"{'gauge', 'shot', 'dead_reckoning', 'hazard', 'surmisal', 'supposition', 'estimate', 'approximate', 'suppose', 'venture', 'hypothesis', 'surmise', 'judge', 'reckon', 'think', 'imagine', 'pretend', 'opine', 'guesswork', 'guessing', 'conjecture', 'infer', 'guess', 'speculation'}"
+using,14,"{'practice', 'habituate', 'expend', 'victimisation', 'utilize', 'apply', 'utilise', 'use', 'employ', 'using', 'exploitation', 'victimization'}"
+calling,14,"{'send_for', 'bid', 'predict', 'vocation', 'hollo', 'phone', 'name', 'telephone', 'visit', 'ring', 'promise', 'prognosticate', 'foretell', 'address', 'career', 'forebode', 'yell', 'scream', 'anticipate', 'call', 'holler', 'shout', 'shout_out', 'call_in', 'call_off', 'calling', 'cry', 'squall', 'call_up'}"
+speakerpelosi,14,{'speakerpelosi'}
+facebook,14,{'facebook'}
+based,14,"{'base', 'found', 'free-base', 'ground', 'based', 'establish'}"
+wrong,14,"{'untimely', 'wrongfulness', 'haywire', 'incorrectly', 'wrongly', 'faulty', 'damage', 'incorrect', 'unseasonable', 'amiss', 'awry', 'improper', 'legal_injury', 'wrong', 'ill-timed'}"
+folk,14,"{'kinfolk', 'tribe', 'folk_music', 'family', 'kinsfolk', 'sept', 'common_people', 'phratry', 'folks', 'ethnic_music', 'family_line', 'folk'}"
+newsmax,14,{'newsmax'}
+cruz,14,{'cruz'}
+seanhannity,14,{'seanhannity'}
+promise,14,"{'assure', 'hope', 'predict', 'promise', 'anticipate', 'prognosticate', 'call', 'foretell', 'forebode'}"
+dear,14,"{'dear', 'earnest', 'pricy', 'heartfelt', 'honey', 'near', 'pricey', 'good', 'dearest', 'high-priced', 'beloved', 'dearly', 'affectionately', 'love', 'darling', 'devout', 'costly', 'lamb'}"
+play,14,"{'frolic', 'roleplay', 'bid', 'shimmer', 'encounter', 'looseness', 'gambling', 'bring', 'wager', 'swordplay', 'fiddle', 'playact', 'playing_period', 'dramatic_play', 'act', 'spiel', 'run', 'gambol', 'turn', 'sport', 'free_rein', 'trifle', 'gaming', 'represent', 'manoeuvre', 'work', 'flirt', 'romp', 'act_as', 'play', 'period_of_play', 'bet', ""child's_play"", 'drama', 'toy', 'dally', 'meet', 'fun', 'diddle', 'maneuver', 'caper', 'recreate', 'take_on', 'wreak', 'make_for'}"
+held,14,"{'keep', 'held', 'bear', 'view_as', 'hold_up', 'throw', 'take_hold', 'carry', 'defy', 'concord', 'prevail', 'give', 'withstand', 'deem', 'hold_back', 'have', 'nurse', 'contain', 'adjudge', 'sustain', 'retain', 'make', 'hold', 'take_for', 'harbour', 'admit', 'accommodate', 'take', 'defend', 'bind', 'go_for', 'declare', 'concur', 'support', 'entertain', 'moderate', 'have_got', 'restrain', 'harbor', 'curb', 'arrest', 'guard', 'maintain', 'keep_back', 'halt', 'oblige', 'hold_in', 'apply', 'confine', 'obligate', 'check', 'obtain', 'control', 'reserve', 'agree', 'book'}"
+2021,14,{'2021'}
+dead,14,"{'deadened', 'short', 'numb', 'absolutely', 'utterly', 'dead', 'beat', 'bushed', 'all_in', 'stagnant', 'drained', 'suddenly', 'abruptly', 'utter', 'idle', 'perfectly'}"
+seems,14,"{'look', 'seem', 'seems', 'appear'}"
+safe,14,"{'secure', 'safety', 'good', 'rubber', 'condom', 'safe', 'prophylactic', 'dependable'}"
+least,14,"{'least', 'to_the_lowest_degree'}"
+putin,14,"{'putin', 'Vladimir_Putin', 'Vladimir_Vladimirovich_Putin', 'Putin'}"
+navalny,14,{'navalny'}
+yorkietime2,14,{'yorkietime2'}
+direct,14,"{'send', 'take_aim', 'train', 'organise', 'guide', 'verbatim', 'aim', 'channelise', 'straight', 'manoeuver', 'orchestrate', 'unmediated', 'head', 'address', 'manoeuvre', 'direct', 'organize', 'steer', 'lineal', 'take', 'engineer', 'calculate', 'channelize', 'target', 'lead', 'conduct', 'maneuver', 'place', 'mastermind', 'point', 'directly'}"
+damn,14,"{'maledict', 'infernal', 'damned', 'goddamn', 'shucks', 'bedamn', 'goddamned', 'all-fired', 'hoot', 'imprecate', 'darned', 'anathemize', 'beshrew', 'darn', 'damn', 'blamed', 'red_cent', ""tinker's_damn"", 'shit', 'blessed', 'bloody', 'deuced', 'goddam', 'anathemise', 'blasted', ""tinker's_dam"", 'curse', 'blame'}"
+communist,14,"{'communist', 'Communist', 'commie', 'communistic'}"
+ava4usa,14,{'ava4usa'}
+iamsrk,14,{'iamsrk'}
+Pfannkuchen,14,"{'pfannkuchen', 'german_pancake', 'Pfannkuchen'}"
+statsawards,14,{'statsawards'}
+dieci,14,{'dieci'}
+entire,13,"{'intact', 'integral', 'stallion', 'total', 'entire', 'full'}"
+couple,13,"{'match', 'dyad', 'mates', 'mate', 'span', 'pair_off', 'copulate', 'duet', 'pair', 'couple_on', 'partner_off', 'duo', 'yoke', 'distich', 'couple', 'couple_up', 'twin', 'duad', 'brace', 'twosome', 'couplet', 'twain'}"
+admin,13,{'admin'}
+longer,13,"{'tenacious', 'longsighted', 'longer', 'yearner', 'prospicient', 'recollective', 'thirster', 'retentive', 'foresightful', 'foresighted', 'long', 'farseeing', 'farsighted'}"
+michigan,13,"{'Chicago', 'MI', 'boodle', 'michigan', 'stops', 'Lake_Michigan', 'Wolverine_State', 'Newmarket', 'Great_Lakes_State', 'Michigan'}"
+happened,13,"{'take_place', 'hap', 'materialise', 'bechance', 'go_on', 'bump', 'happened', 'befall', 'encounter', 'occur', 'pass', 'fall_out', 'find', 'happen', 'come_about', 'chance', 'pass_off', 'materialize'}"
+check,13,"{'match', 'agree', 'checker', 'check_into', 'check_out', 'mark_off', 'verification', 'chit', 'chequer', 'cheque', 'train', 'crack', 'check_up_on', 'gibe', 'tab', 'chip', 'check_over', 'hold_back', 'see_to_it', 'baulk', 'determine', 'watch', 'ensure', 'suss_out', 'contain', 'retard', 'break', 'tick_off', 'check_off', 'discipline', 'learn', 'hold', 'condition', 'stoppage', 'chink', 'delay', 'ascertain', 'check-out_procedure', 'turn_back', 'stay', 'bridle', 'look_into', 'impediment', 'moderate', 'arrest', 'curb', 'tally', 'bank_check', 'see', 'assure', 'find_out', 'mark', 'hitch', 'halt', 'confirmation', 'hold_in', 'hinderance', 'insure', 'tick', 'correspond', 'hindrance', 'balk', 'fit', 'check', 'substantiation', 'check_mark', 'checkout', 'deterrent', 'handicap', 'assay', 'go_over', 'stop', 'control', 'jibe'}"
+allowed,13,"{'take_into_account', 'leave', 'allowed', 'appropriate', 'let', 'countenance', 'earmark', 'allow_for', 'admit', 'set_aside', 'give_up', 'tolerate', 'provide', 'permit', 'reserve', 'grant', 'allow'}"
+difference,13,"{'departure', 'dispute', 'remainder', 'deviation', 'difference', 'divergence', 'conflict', 'difference_of_opinion'}"
+face,13,"{'expression', 'face_up', 'face', 'confront', 'human_face', 'side', 'nerve', 'present', 'aspect', 'typeface', 'grimace', 'brass', 'look', 'fount', 'front', 'boldness', 'facial_expression', 'cheek', 'font', 'case'}"
+started,13,"{'depart', 'set_out', 'take_up', 'originate', 'commence', 'bug_out', 'get', 'set_forth', 'bulge_out', 'go', 'come_out', 'set_off', 'protrude', 'pop_out', 'start_out', 'start_up', 'startle', 'start', 'started', 'pop', 'bulge', 'part', 'get_down', 'get_going', 'set_about', 'jump', 'lead_off', 'initiate', 'embark_on', 'begin', 'take_off'}"
+energy,13,"{'Energy', 'vigour', 'push', 'free_energy', 'vim', 'vigor', 'zip', 'get-up-and-go', 'muscularity', 'Energy_Department', 'Department_of_Energy', 'DOE', 'vitality', 'energy'}"
+sick,13,"{'nauseated', 'puke', 'ill', 'brainsick', 'regurgitate', 'vomit', 'disgusted', 'pallid', 'sick_of', 'grisly', 'gruesome', 'macabre', 'honk', 'crazy', 'grim', 'cast', 'throw_up', 'chuck', 'regorge', 'wan', 'sickish', 'mad', 'cat', 'tired_of', 'purge', 'spew', 'be_sick', 'retch', 'sick', 'disgorge', 'vomit_up', 'unbalanced', 'unhinged', 'barf', 'ghastly', 'spue', 'demented', 'fed_up', 'upchuck', 'pale', 'disturbed', 'nauseous', 'queasy'}"
+flotus,13,{'flotus'}
+court,13,"{'lawcourt', 'Court', 'motor_hotel', 'court', 'courtyard', 'motor_lodge', 'court_of_law', 'woo', 'royal_court', 'tribunal', 'romance', 'solicit', 'judicature', 'motor_inn', 'homage', 'courtroom', 'tourist_court', 'court_of_justice', 'Margaret_Court'}"
+general,13,"{'superior_general', 'cosmopolitan', 'worldwide', 'oecumenical', 'ecumenical', 'world-wide', 'full_general', 'universal', 'general'}"
+following,13,"{'come_after', 'postdate', 'succeed', 'espouse', 'stick_to', 'follow', 'trace', 'travel_along', 'undermentioned', 'conform_to', 'pursue', 'keep_abreast', 'play_along', 'abide_by', 'watch', 'following', 'pursual', 'survey', 'accompany', 'keep_up', 'come', 'pursuit', 'watch_over', 'chase', 'fall_out', 'stick_with', 'comply', 'adopt', 'observe', 'keep_an_eye_on', 'surveil', 'next', 'be', 'followers', 'take_after'}"
+hello,12,"{'hullo', 'howdy', 'hello', 'hi', 'how-do-you-do'}"
+success,11,"{'success', 'achiever', 'succeeder', 'winner'}"
+panademic,10,{'panademic'}
+dress,9,"{'dress_out', 'set', 'clothes', 'garment', 'do', 'get_dressed', 'frock', 'crop', 'full-dress', 'attire', 'habilitate', 'curry', 'garnish', 'fit_out', 'garb', 'line_up', 'cut_back', 'dress_up', 'coiffure', 'lop', 'coif', 'plume', 'prune', 'preen', 'groom', 'trim', 'apparel', 'dress', 'enclothe', 'clothe', 'coiffe', 'arrange', 'raiment', 'wearing_apparel', 'decorate', 'tog', 'primp', 'clip', 'snip'}"
